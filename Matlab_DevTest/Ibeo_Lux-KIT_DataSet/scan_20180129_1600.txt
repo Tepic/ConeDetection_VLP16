@@ -1,0 +1,5348 @@
+__________________________________
+Scanned point: 865
+Average time:  1.1969e-05s
+Elapsed time:  0.010353s
+ETA 2scans:  0.078s
+Average scan time:  0.013638s
+__________________________________
+Scanned point: 820
+Average time:  8.144e-06s
+Elapsed time:  0.0066781s
+ETA 2scans:  0.083s
+Average scan time:  0.013637s
+__________________________________
+Scanned point: 830
+Average time:  1.0005e-05s
+Elapsed time:  0.0083039s
+ETA 2scans:  0.079s
+Average scan time:  0.013635s
+__________________________________
+Scanned point: 804
+Average time:  1.408e-05s
+Elapsed time:  0.01132s
+ETA 2scans:  0.079s
+Average scan time:  0.013635s
+__________________________________
+Scanned point: 796
+Average time:  1.5618e-05s
+Elapsed time:  0.012432s
+ETA 2scans:  0.084s
+Average scan time:  0.013634s
+__________________________________
+Scanned point: 769
+Average time:  1.3152e-05s
+Elapsed time:  0.010114s
+ETA 2scans:  0.072s
+Average scan time:  0.013633s
+__________________________________
+Scanned point: 770
+Average time:  9.1473e-06s
+Elapsed time:  0.0070434s
+ETA 2scans:  0.086s
+Average scan time:  0.013632s
+__________________________________
+Scanned point: 812
+Average time:  9.232e-06s
+Elapsed time:  0.0074964s
+ETA 2scans:  0.081s
+Average scan time:  0.01363s
+__________________________________
+Scanned point: 821
+Average time:  6.1965e-06s
+Elapsed time:  0.0050873s
+ETA 2scans:  0.082s
+Average scan time:  0.013628s
+__________________________________
+Scanned point: 790
+Average time:  1.2317e-05s
+Elapsed time:  0.00973s
+ETA 2scans:  0.077s
+Average scan time:  0.013627s
+__________________________________
+Scanned point: 757
+Average time:  1.2598e-05s
+Elapsed time:  0.0095369s
+ETA 2scans:  0.082s
+Average scan time:  0.013626s
+__________________________________
+Scanned point: 809
+Average time:  1.6822e-05s
+Elapsed time:  0.013609s
+ETA 2scans:  0.08s
+Average scan time:  0.013626s
+__________________________________
+Scanned point: 765
+Average time:  1.0805e-05s
+Elapsed time:  0.0082661s
+ETA 2scans:  0.081s
+Average scan time:  0.013624s
+__________________________________
+Scanned point: 827
+Average time:  8.576e-06s
+Elapsed time:  0.0070924s
+ETA 2scans:  0.077s
+Average scan time:  0.013623s
+__________________________________
+Scanned point: 792
+Average time:  6.338e-06s
+Elapsed time:  0.0050197s
+ETA 2scans:  0.081s
+Average scan time:  0.01362s
+__________________________________
+Scanned point: 757
+Average time:  5.796e-06s
+Elapsed time:  0.0043875s
+ETA 2scans:  0.078s
+Average scan time:  0.013618s
+__________________________________
+Scanned point: 763
+Average time:  1.0003e-05s
+Elapsed time:  0.0076321s
+ETA 2scans:  0.08s
+Average scan time:  0.013616s
+__________________________________
+Scanned point: 788
+Average time:  1.5146e-05s
+Elapsed time:  0.011935s
+ETA 2scans:  0.081s
+Average scan time:  0.013616s
+__________________________________
+Scanned point: 770
+Average time:  1.1609e-05s
+Elapsed time:  0.0089388s
+ETA 2scans:  0.079s
+Average scan time:  0.013615s
+__________________________________
+Scanned point: 743
+Average time:  1.081e-05s
+Elapsed time:  0.0080315s
+ETA 2scans:  0.079s
+Average scan time:  0.013613s
+__________________________________
+Scanned point: 710
+Average time:  4.0531e-05s
+Elapsed time:  0.028777s
+ETA 2scans:  0.081s
+Average scan time:  0.013617s
+__________________________________
+Scanned point: 730
+Average time:  2.6336e-05s
+Elapsed time:  0.019225s
+ETA 2scans:  0.079s
+Average scan time:  0.013619s
+__________________________________
+Scanned point: 760
+Average time:  6.3492e-05s
+Elapsed time:  0.048254s
+ETA 2scans:  0.072s
+Average scan time:  0.013628s
+__________________________________
+Scanned point: 741
+Average time:  1.4804e-05s
+Elapsed time:  0.01097s
+ETA 2scans:  0.087s
+Average scan time:  0.013627s
+__________________________________
+Scanned point: 752
+Average time:  2.044e-05s
+Elapsed time:  0.015371s
+ETA 2scans:  0.08s
+Average scan time:  0.013627s
+__________________________________
+Scanned point: 764
+Average time:  2.8742e-05s
+Elapsed time:  0.021959s
+ETA 2scans:  0.082s
+Average scan time:  0.01363s
+__________________________________
+Scanned point: 795
+Average time:  2.8745e-05s
+Elapsed time:  0.022853s
+ETA 2scans:  0.081s
+Average scan time:  0.013632s
+__________________________________
+Scanned point: 754
+Average time:  3.5111e-05s
+Elapsed time:  0.026474s
+ETA 2scans:  0.078s
+Average scan time:  0.013635s
+__________________________________
+Scanned point: 838
+Average time:  5.2493e-05s
+Elapsed time:  0.043989s
+ETA 2scans:  0.08s
+Average scan time:  0.013643s
+__________________________________
+Scanned point: 784
+Average time:  2.1872e-05s
+Elapsed time:  0.017148s
+ETA 2scans:  0.081s
+Average scan time:  0.013644s
+__________________________________
+Scanned point: 780
+Average time:  8.4833e-06s
+Elapsed time:  0.006617s
+ETA 2scans:  0.08s
+Average scan time:  0.013642s
+__________________________________
+Scanned point: 778
+Average time:  1.3386e-05s
+Elapsed time:  0.010414s
+ETA 2scans:  0.082s
+Average scan time:  0.013642s
+__________________________________
+Scanned point: 785
+Average time:  7.1569e-06s
+Elapsed time:  0.0056182s
+ETA 2scans:  0.079s
+Average scan time:  0.013639s
+__________________________________
+Scanned point: 782
+Average time:  1.4194e-05s
+Elapsed time:  0.0111s
+ETA 2scans:  0.079s
+Average scan time:  0.013639s
+__________________________________
+Scanned point: 832
+Average time:  3.2044e-05s
+Elapsed time:  0.02666s
+ETA 2scans:  0.081s
+Average scan time:  0.013642s
+__________________________________
+Scanned point: 841
+Average time:  2.0211e-05s
+Elapsed time:  0.016998s
+ETA 2scans:  0.082s
+Average scan time:  0.013643s
+__________________________________
+Scanned point: 829
+Average time:  1.2258e-05s
+Elapsed time:  0.010162s
+ETA 2scans:  0.081s
+Average scan time:  0.013642s
+__________________________________
+Scanned point: 842
+Average time:  2.196e-05s
+Elapsed time:  0.01849s
+ETA 2scans:  0.079s
+Average scan time:  0.013643s
+__________________________________
+Scanned point: 823
+Average time:  1.3637e-05s
+Elapsed time:  0.011223s
+ETA 2scans:  0.081s
+Average scan time:  0.013643s
+__________________________________
+Scanned point: 844
+Average time:  1.3001e-05s
+Elapsed time:  0.010973s
+ETA 2scans:  0.076s
+Average scan time:  0.013642s
+__________________________________
+Scanned point: 811
+Average time:  9.948e-06s
+Elapsed time:  0.0080679s
+ETA 2scans:  0.08s
+Average scan time:  0.013641s
+__________________________________
+Scanned point: 810
+Average time:  1.3152e-05s
+Elapsed time:  0.010653s
+ETA 2scans:  0.08s
+Average scan time:  0.01364s
+__________________________________
+Scanned point: 822
+Average time:  5.9665e-06s
+Elapsed time:  0.0049044s
+ETA 2scans:  0.081s
+Average scan time:  0.013638s
+__________________________________
+Scanned point: 793
+Average time:  1.0323e-05s
+Elapsed time:  0.0081859s
+ETA 2scans:  0.077s
+Average scan time:  0.013636s
+__________________________________
+Scanned point: 815
+Average time:  1.6355e-05s
+Elapsed time:  0.01333s
+ETA 2scans:  0.082s
+Average scan time:  0.013636s
+__________________________________
+Scanned point: 838
+Average time:  1.8472e-05s
+Elapsed time:  0.015479s
+ETA 2scans:  0.079s
+Average scan time:  0.013637s
+__________________________________
+Scanned point: 911
+Average time:  1.8049e-05s
+Elapsed time:  0.016443s
+ETA 2scans:  0.081s
+Average scan time:  0.013637s
+__________________________________
+Scanned point: 870
+Average time:  9.2021e-06s
+Elapsed time:  0.0080058s
+ETA 2scans:  0.081s
+Average scan time:  0.013636s
+__________________________________
+Scanned point: 890
+Average time:  1.48e-05s
+Elapsed time:  0.013172s
+ETA 2scans:  0.08s
+Average scan time:  0.013636s
+__________________________________
+Scanned point: 894
+Average time:  1.3317e-05s
+Elapsed time:  0.011905s
+ETA 2scans:  0.078s
+Average scan time:  0.013635s
+__________________________________
+Scanned point: 964
+Average time:  1.1566e-05s
+Elapsed time:  0.011149s
+ETA 2scans:  0.085s
+Average scan time:  0.013635s
+__________________________________
+Scanned point: 973
+Average time:  1.0134e-05s
+Elapsed time:  0.0098607s
+ETA 2scans:  0.081s
+Average scan time:  0.013634s
+__________________________________
+Scanned point: 1060
+Average time:  1.1844e-05s
+Elapsed time:  0.012554s
+ETA 2scans:  0.082s
+Average scan time:  0.013633s
+__________________________________
+Scanned point: 977
+Average time:  1.2844e-05s
+Elapsed time:  0.012549s
+ETA 2scans:  0.076s
+Average scan time:  0.013633s
+__________________________________
+Scanned point: 1052
+Average time:  2.7568e-05s
+Elapsed time:  0.029001s
+ETA 2scans:  0.081s
+Average scan time:  0.013637s
+__________________________________
+Scanned point: 1177
+Average time:  1.5682e-05s
+Elapsed time:  0.018458s
+ETA 2scans:  0.084s
+Average scan time:  0.013638s
+__________________________________
+Scanned point: 1151
+Average time:  1.0044e-05s
+Elapsed time:  0.01156s
+ETA 2scans:  0.081s
+Average scan time:  0.013638s
+__________________________________
+Scanned point: 1166
+Average time:  8.276e-06s
+Elapsed time:  0.0096498s
+ETA 2scans:  0.077s
+Average scan time:  0.013637s
+__________________________________
+Scanned point: 1053
+Average time:  7.8846e-06s
+Elapsed time:  0.0083025s
+ETA 2scans:  0.08s
+Average scan time:  0.013635s
+__________________________________
+Scanned point: 1163
+Average time:  1.0406e-05s
+Elapsed time:  0.012103s
+ETA 2scans:  0.081s
+Average scan time:  0.013635s
+__________________________________
+Scanned point: 1156
+Average time:  9.2705e-06s
+Elapsed time:  0.010717s
+ETA 2scans:  0.081s
+Average scan time:  0.013634s
+__________________________________
+Scanned point: 1153
+Average time:  1.0774e-05s
+Elapsed time:  0.012423s
+ETA 2scans:  0.078s
+Average scan time:  0.013634s
+__________________________________
+Scanned point: 1220
+Average time:  1.3258e-05s
+Elapsed time:  0.016175s
+ETA 2scans:  0.082s
+Average scan time:  0.013635s
+__________________________________
+Scanned point: 1172
+Average time:  1.3971e-05s
+Elapsed time:  0.016375s
+ETA 2scans:  0.078s
+Average scan time:  0.013635s
+__________________________________
+Scanned point: 1224
+Average time:  1.8139e-05s
+Elapsed time:  0.022203s
+ETA 2scans:  0.082s
+Average scan time:  0.013638s
+__________________________________
+Scanned point: 1097
+Average time:  9.4008e-06s
+Elapsed time:  0.010313s
+ETA 2scans:  0.08s
+Average scan time:  0.013637s
+__________________________________
+Scanned point: 1095
+Average time:  1.7747e-05s
+Elapsed time:  0.019433s
+ETA 2scans:  0.079s
+Average scan time:  0.013638s
+__________________________________
+Scanned point: 1097
+Average time:  9.6947e-06s
+Elapsed time:  0.010635s
+ETA 2scans:  0.08s
+Average scan time:  0.013637s
+__________________________________
+Scanned point: 1025
+Average time:  5.1922e-06s
+Elapsed time:  0.005322s
+ETA 2scans:  0.08s
+Average scan time:  0.013635s
+__________________________________
+Scanned point: 1061
+Average time:  1.0369e-05s
+Elapsed time:  0.011001s
+ETA 2scans:  0.08s
+Average scan time:  0.013635s
+__________________________________
+Scanned point: 1018
+Average time:  6.4574e-06s
+Elapsed time:  0.0065736s
+ETA 2scans:  0.077s
+Average scan time:  0.013633s
+__________________________________
+Scanned point: 1090
+Average time:  7.5601e-06s
+Elapsed time:  0.0082405s
+ETA 2scans:  0.084s
+Average scan time:  0.013631s
+__________________________________
+Scanned point: 1040
+Average time:  1.55e-05s
+Elapsed time:  0.01612s
+ETA 2scans:  0.077s
+Average scan time:  0.013632s
+__________________________________
+Scanned point: 1057
+Average time:  1.66e-05s
+Elapsed time:  0.017546s
+ETA 2scans:  0.079s
+Average scan time:  0.013633s
+__________________________________
+Scanned point: 964
+Average time:  7.8179e-06s
+Elapsed time:  0.0075365s
+ETA 2scans:  0.08s
+Average scan time:  0.013631s
+__________________________________
+Scanned point: 947
+Average time:  7.7282e-06s
+Elapsed time:  0.0073186s
+ETA 2scans:  0.079s
+Average scan time:  0.01363s
+__________________________________
+Scanned point: 947
+Average time:  7.9716e-06s
+Elapsed time:  0.0075491s
+ETA 2scans:  0.081s
+Average scan time:  0.013628s
+__________________________________
+Scanned point: 884
+Average time:  1.1502e-05s
+Elapsed time:  0.010168s
+ETA 2scans:  0.081s
+Average scan time:  0.013627s
+__________________________________
+Scanned point: 926
+Average time:  9.7927e-06s
+Elapsed time:  0.0090681s
+ETA 2scans:  0.079s
+Average scan time:  0.013626s
+__________________________________
+Scanned point: 939
+Average time:  4.686e-06s
+Elapsed time:  0.0044001s
+ETA 2scans:  0.079s
+Average scan time:  0.013624s
+__________________________________
+Scanned point: 892
+Average time:  5.1986e-06s
+Elapsed time:  0.0046371s
+ETA 2scans:  0.081s
+Average scan time:  0.013621s
+__________________________________
+Scanned point: 894
+Average time:  1.0423e-05s
+Elapsed time:  0.0093186s
+ETA 2scans:  0.079s
+Average scan time:  0.01362s
+__________________________________
+Scanned point: 894
+Average time:  1.0782e-05s
+Elapsed time:  0.0096391s
+ETA 2scans:  0.078s
+Average scan time:  0.013619s
+__________________________________
+Scanned point: 906
+Average time:  9.5486e-06s
+Elapsed time:  0.008651s
+ETA 2scans:  0.081s
+Average scan time:  0.013618s
+__________________________________
+Scanned point: 897
+Average time:  1.6748e-05s
+Elapsed time:  0.015023s
+ETA 2scans:  0.079s
+Average scan time:  0.013618s
+__________________________________
+Scanned point: 890
+Average time:  8.7133e-06s
+Elapsed time:  0.0077548s
+ETA 2scans:  0.081s
+Average scan time:  0.013617s
+__________________________________
+Scanned point: 927
+Average time:  7.2604e-06s
+Elapsed time:  0.0067304s
+ETA 2scans:  0.083s
+Average scan time:  0.013615s
+__________________________________
+Scanned point: 899
+Average time:  5.1368e-06s
+Elapsed time:  0.004618s
+ETA 2scans:  0.077s
+Average scan time:  0.013613s
+__________________________________
+Scanned point: 847
+Average time:  6.2861e-06s
+Elapsed time:  0.0053243s
+ETA 2scans:  0.079s
+Average scan time:  0.013611s
+__________________________________
+Scanned point: 821
+Average time:  9.0558e-06s
+Elapsed time:  0.0074348s
+ETA 2scans:  0.08s
+Average scan time:  0.013609s
+__________________________________
+Scanned point: 796
+Average time:  9.3384e-06s
+Elapsed time:  0.0074334s
+ETA 2scans:  0.078s
+Average scan time:  0.013607s
+__________________________________
+Scanned point: 795
+Average time:  8.3391e-06s
+Elapsed time:  0.0066296s
+ETA 2scans:  0.082s
+Average scan time:  0.013606s
+__________________________________
+Scanned point: 794
+Average time:  6.8056e-06s
+Elapsed time:  0.0054036s
+ETA 2scans:  0.08s
+Average scan time:  0.013603s
+__________________________________
+Scanned point: 779
+Average time:  7.9343e-06s
+Elapsed time:  0.0061808s
+ETA 2scans:  0.079s
+Average scan time:  0.013602s
+__________________________________
+Scanned point: 842
+Average time:  1.6491e-05s
+Elapsed time:  0.013886s
+ETA 2scans:  0.08s
+Average scan time:  0.013602s
+__________________________________
+Scanned point: 773
+Average time:  7.6121e-06s
+Elapsed time:  0.0058841s
+ETA 2scans:  0.08s
+Average scan time:  0.0136s
+__________________________________
+Scanned point: 807
+Average time:  9.7245e-06s
+Elapsed time:  0.0078477s
+ETA 2scans:  0.079s
+Average scan time:  0.013598s
+__________________________________
+Scanned point: 741
+Average time:  6.3769e-06s
+Elapsed time:  0.0047253s
+ETA 2scans:  0.077s
+Average scan time:  0.013596s
+__________________________________
+Scanned point: 805
+Average time:  7.5308e-06s
+Elapsed time:  0.0060623s
+ETA 2scans:  0.08s
+Average scan time:  0.013594s
+__________________________________
+Scanned point: 772
+Average time:  7.4563e-06s
+Elapsed time:  0.0057563s
+ETA 2scans:  0.083s
+Average scan time:  0.013592s
+__________________________________
+Scanned point: 806
+Average time:  1.6033e-05s
+Elapsed time:  0.012923s
+ETA 2scans:  0.077s
+Average scan time:  0.013592s
+__________________________________
+Scanned point: 781
+Average time:  1.0583e-05s
+Elapsed time:  0.0082652s
+ETA 2scans:  0.079s
+Average scan time:  0.01359s
+__________________________________
+Scanned point: 889
+Average time:  5.6086e-06s
+Elapsed time:  0.0049861s
+ETA 2scans:  0.082s
+Average scan time:  0.013588s
+__________________________________
+Scanned point: 843
+Average time:  6.208e-06s
+Elapsed time:  0.0052333s
+ETA 2scans:  0.078s
+Average scan time:  0.013586s
+__________________________________
+Scanned point: 946
+Average time:  7.7058e-06s
+Elapsed time:  0.0072897s
+ETA 2scans:  0.081s
+Average scan time:  0.013584s
+__________________________________
+Scanned point: 961
+Average time:  7.4351e-06s
+Elapsed time:  0.0071451s
+ETA 2scans:  0.083s
+Average scan time:  0.013583s
+__________________________________
+Scanned point: 972
+Average time:  1.8198e-05s
+Elapsed time:  0.017688s
+ETA 2scans:  0.081s
+Average scan time:  0.013584s
+__________________________________
+Scanned point: 1003
+Average time:  1.2844e-05s
+Elapsed time:  0.012882s
+ETA 2scans:  0.08s
+Average scan time:  0.013584s
+__________________________________
+Scanned point: 998
+Average time:  4.1724e-06s
+Elapsed time:  0.0041641s
+ETA 2scans:  0.081s
+Average scan time:  0.013581s
+__________________________________
+Scanned point: 1016
+Average time:  7.9895e-06s
+Elapsed time:  0.0081173s
+ETA 2scans:  0.079s
+Average scan time:  0.01358s
+__________________________________
+Scanned point: 1089
+Average time:  9.7333e-06s
+Elapsed time:  0.0106s
+ETA 2scans:  0.082s
+Average scan time:  0.013579s
+__________________________________
+Scanned point: 1071
+Average time:  7.6254e-06s
+Elapsed time:  0.0081668s
+ETA 2scans:  0.082s
+Average scan time:  0.013578s
+__________________________________
+Scanned point: 1095
+Average time:  1.6694e-05s
+Elapsed time:  0.01828s
+ETA 2scans:  0.081s
+Average scan time:  0.013579s
+__________________________________
+Scanned point: 1141
+Average time:  2.1317e-05s
+Elapsed time:  0.024323s
+ETA 2scans:  0.078s
+Average scan time:  0.013582s
+__________________________________
+Scanned point: 1098
+Average time:  4.0057e-06s
+Elapsed time:  0.0043983s
+ETA 2scans:  0.081s
+Average scan time:  0.013579s
+__________________________________
+Scanned point: 1134
+Average time:  3.4227e-06s
+Elapsed time:  0.0038814s
+ETA 2scans:  0.079s
+Average scan time:  0.013577s
+__________________________________
+Scanned point: 1244
+Average time:  4.4105e-06s
+Elapsed time:  0.0054866s
+ETA 2scans:  0.083s
+Average scan time:  0.013575s
+__________________________________
+Scanned point: 1225
+Average time:  5.64e-06s
+Elapsed time:  0.006909s
+ETA 2scans:  0.079s
+Average scan time:  0.013573s
+__________________________________
+Scanned point: 1282
+Average time:  1.0357e-05s
+Elapsed time:  0.013278s
+ETA 2scans:  0.083s
+Average scan time:  0.013573s
+__________________________________
+Scanned point: 1217
+Average time:  7.1219e-06s
+Elapsed time:  0.0086673s
+ETA 2scans:  0.077s
+Average scan time:  0.013572s
+__________________________________
+Scanned point: 1246
+Average time:  9.1086e-06s
+Elapsed time:  0.011349s
+ETA 2scans:  0.083s
+Average scan time:  0.013571s
+__________________________________
+Scanned point: 1225
+Average time:  3.3513e-06s
+Elapsed time:  0.0041053s
+ETA 2scans:  0.08s
+Average scan time:  0.013569s
+__________________________________
+Scanned point: 1299
+Average time:  3.6509e-06s
+Elapsed time:  0.0047426s
+ETA 2scans:  0.08s
+Average scan time:  0.013566s
+__________________________________
+Scanned point: 1272
+Average time:  3.5296e-06s
+Elapsed time:  0.0044897s
+ETA 2scans:  0.08s
+Average scan time:  0.013564s
+__________________________________
+Scanned point: 1284
+Average time:  4.9354e-06s
+Elapsed time:  0.0063371s
+ETA 2scans:  0.084s
+Average scan time:  0.013562s
+__________________________________
+Scanned point: 1289
+Average time:  3.2811e-06s
+Elapsed time:  0.0042294s
+ETA 2scans:  0.075s
+Average scan time:  0.01356s
+__________________________________
+Scanned point: 1349
+Average time:  6.9161e-06s
+Elapsed time:  0.0093298s
+ETA 2scans:  0.084s
+Average scan time:  0.013559s
+__________________________________
+Scanned point: 1313
+Average time:  6.2206e-06s
+Elapsed time:  0.0081677s
+ETA 2scans:  0.079s
+Average scan time:  0.013557s
+__________________________________
+Scanned point: 1377
+Average time:  7.2541e-06s
+Elapsed time:  0.009989s
+ETA 2scans:  0.08s
+Average scan time:  0.013556s
+__________________________________
+Scanned point: 1277
+Average time:  6.2513e-06s
+Elapsed time:  0.007983s
+ETA 2scans:  0.079s
+Average scan time:  0.013555s
+__________________________________
+Scanned point: 1351
+Average time:  8.1973e-06s
+Elapsed time:  0.011075s
+ETA 2scans:  0.08s
+Average scan time:  0.013554s
+__________________________________
+Scanned point: 1299
+Average time:  4.2442e-06s
+Elapsed time:  0.0055132s
+ETA 2scans:  0.082s
+Average scan time:  0.013552s
+__________________________________
+Scanned point: 1327
+Average time:  3.9283e-06s
+Elapsed time:  0.0052128s
+ETA 2scans:  0.08s
+Average scan time:  0.01355s
+__________________________________
+Scanned point: 1337
+Average time:  1.5918e-06s
+Elapsed time:  0.0021282s
+ETA 2scans:  0.079s
+Average scan time:  0.013547s
+__________________________________
+Scanned point: 1378
+Average time:  6.2915e-06s
+Elapsed time:  0.0086697s
+ETA 2scans:  0.083s
+Average scan time:  0.013546s
+__________________________________
+Scanned point: 1370
+Average time:  3.5503e-06s
+Elapsed time:  0.0048639s
+ETA 2scans:  0.081s
+Average scan time:  0.013544s
+__________________________________
+Scanned point: 1369
+Average time:  3.7045e-06s
+Elapsed time:  0.0050715s
+ETA 2scans:  0.082s
+Average scan time:  0.013542s
+__________________________________
+Scanned point: 1385
+Average time:  4.8116e-06s
+Elapsed time:  0.0066641s
+ETA 2scans:  0.078s
+Average scan time:  0.01354s
+__________________________________
+Scanned point: 1369
+Average time:  6.6365e-06s
+Elapsed time:  0.0090853s
+ETA 2scans:  0.08s
+Average scan time:  0.013539s
+__________________________________
+Scanned point: 1370
+Average time:  1.1774e-05s
+Elapsed time:  0.016131s
+ETA 2scans:  0.078s
+Average scan time:  0.013539s
+__________________________________
+Scanned point: 1332
+Average time:  8.2662e-06s
+Elapsed time:  0.011011s
+ETA 2scans:  0.078s
+Average scan time:  0.013539s
+__________________________________
+Scanned point: 1349
+Average time:  8.1026e-06s
+Elapsed time:  0.01093s
+ETA 2scans:  0.085s
+Average scan time:  0.013538s
+__________________________________
+Scanned point: 1351
+Average time:  3.0829e-06s
+Elapsed time:  0.004165s
+ETA 2scans:  0.078s
+Average scan time:  0.013536s
+__________________________________
+Scanned point: 1381
+Average time:  6.115e-06s
+Elapsed time:  0.0084448s
+ETA 2scans:  0.081s
+Average scan time:  0.013534s
+__________________________________
+Scanned point: 1404
+Average time:  9.9589e-06s
+Elapsed time:  0.013982s
+ETA 2scans:  0.079s
+Average scan time:  0.013534s
+__________________________________
+Scanned point: 1435
+Average time:  6.497e-06s
+Elapsed time:  0.0093232s
+ETA 2scans:  0.081s
+Average scan time:  0.013533s
+__________________________________
+Scanned point: 1402
+Average time:  6.7112e-06s
+Elapsed time:  0.0094091s
+ETA 2scans:  0.076s
+Average scan time:  0.013532s
+__________________________________
+Scanned point: 1387
+Average time:  1.1659e-05s
+Elapsed time:  0.016171s
+ETA 2scans:  0.082s
+Average scan time:  0.013533s
+__________________________________
+Scanned point: 1418
+Average time:  3.5827e-06s
+Elapsed time:  0.0050803s
+ETA 2scans:  0.079s
+Average scan time:  0.013531s
+__________________________________
+Scanned point: 1412
+Average time:  4.2551e-06s
+Elapsed time:  0.0060082s
+ETA 2scans:  0.077s
+Average scan time:  0.013529s
+__________________________________
+Scanned point: 1432
+Average time:  4.6075e-06s
+Elapsed time:  0.0065979s
+ETA 2scans:  0.08s
+Average scan time:  0.013527s
+__________________________________
+Scanned point: 1405
+Average time:  1.0934e-05s
+Elapsed time:  0.015362s
+ETA 2scans:  0.083s
+Average scan time:  0.013528s
+__________________________________
+Scanned point: 1438
+Average time:  1.5267e-05s
+Elapsed time:  0.021955s
+ETA 2scans:  0.081s
+Average scan time:  0.01353s
+__________________________________
+Scanned point: 1418
+Average time:  1.9421e-05s
+Elapsed time:  0.027539s
+ETA 2scans:  0.075s
+Average scan time:  0.013533s
+__________________________________
+Scanned point: 1485
+Average time:  2.0702e-05s
+Elapsed time:  0.030743s
+ETA 2scans:  0.083s
+Average scan time:  0.013538s
+__________________________________
+Scanned point: 1501
+Average time:  2.216e-05s
+Elapsed time:  0.033262s
+ETA 2scans:  0.08s
+Average scan time:  0.013543s
+__________________________________
+Scanned point: 1522
+Average time:  2.8425e-05s
+Elapsed time:  0.043262s
+ETA 2scans:  0.078s
+Average scan time:  0.01355s
+__________________________________
+Scanned point: 1497
+Average time:  2.4809e-05s
+Elapsed time:  0.037139s
+ETA 2scans:  0.08s
+Average scan time:  0.013556s
+__________________________________
+Scanned point: 1399
+Average time:  2.7459e-05s
+Elapsed time:  0.038414s
+ETA 2scans:  0.076s
+Average scan time:  0.013563s
+__________________________________
+Scanned point: 1466
+Average time:  5.8388e-05s
+Elapsed time:  0.085597s
+ETA 2scans:  0.081s
+Average scan time:  0.013581s
+__________________________________
+Scanned point: 1416
+Average time:  4.8701e-05s
+Elapsed time:  0.068961s
+ETA 2scans:  0.077s
+Average scan time:  0.013595s
+__________________________________
+Scanned point: 1422
+Average time:  3.1612e-05s
+Elapsed time:  0.044952s
+ETA 2scans:  0.082s
+Average scan time:  0.013603s
+__________________________________
+Scanned point: 1413
+Average time:  3.7675e-05s
+Elapsed time:  0.053235s
+ETA 2scans:  0.079s
+Average scan time:  0.013613s
+__________________________________
+Scanned point: 1442
+Average time:  3.4735e-05s
+Elapsed time:  0.050088s
+ETA 2scans:  0.084s
+Average scan time:  0.013622s
+__________________________________
+Scanned point: 1405
+Average time:  3.6134e-05s
+Elapsed time:  0.050769s
+ETA 2scans:  0.077s
+Average scan time:  0.013632s
+__________________________________
+Scanned point: 1386
+Average time:  3.4429e-05s
+Elapsed time:  0.047718s
+ETA 2scans:  0.079s
+Average scan time:  0.01364s
+__________________________________
+Scanned point: 1344
+Average time:  3.1515e-05s
+Elapsed time:  0.042356s
+ETA 2scans:  0.078s
+Average scan time:  0.013648s
+__________________________________
+Scanned point: 1298
+Average time:  3.0478e-05s
+Elapsed time:  0.03956s
+ETA 2scans:  0.079s
+Average scan time:  0.013654s
+__________________________________
+Scanned point: 1271
+Average time:  2.3717e-05s
+Elapsed time:  0.030145s
+ETA 2scans:  0.08s
+Average scan time:  0.013658s
+__________________________________
+Scanned point: 1261
+Average time:  2.9527e-05s
+Elapsed time:  0.037233s
+ETA 2scans:  0.083s
+Average scan time:  0.013664s
+__________________________________
+Scanned point: 1300
+Average time:  2.5209e-05s
+Elapsed time:  0.032772s
+ETA 2scans:  0.079s
+Average scan time:  0.013669s
+__________________________________
+Scanned point: 1297
+Average time:  3.1576e-05s
+Elapsed time:  0.040954s
+ETA 2scans:  0.08s
+Average scan time:  0.013676s
+__________________________________
+Scanned point: 1281
+Average time:  2.7889e-05s
+Elapsed time:  0.035726s
+ETA 2scans:  0.081s
+Average scan time:  0.013682s
+__________________________________
+Scanned point: 1307
+Average time:  2.3769e-05s
+Elapsed time:  0.031066s
+ETA 2scans:  0.078s
+Average scan time:  0.013686s
+__________________________________
+Scanned point: 1268
+Average time:  2.2659e-05s
+Elapsed time:  0.028732s
+ETA 2scans:  0.082s
+Average scan time:  0.01369s
+__________________________________
+Scanned point: 1184
+Average time:  1.6655e-05s
+Elapsed time:  0.019719s
+ETA 2scans:  0.079s
+Average scan time:  0.013691s
+__________________________________
+Scanned point: 1161
+Average time:  1.9566e-05s
+Elapsed time:  0.022716s
+ETA 2scans:  0.079s
+Average scan time:  0.013694s
+__________________________________
+Scanned point: 1143
+Average time:  1.7307e-05s
+Elapsed time:  0.019782s
+ETA 2scans:  0.078s
+Average scan time:  0.013695s
+__________________________________
+Scanned point: 1181
+Average time:  1.9309e-05s
+Elapsed time:  0.022805s
+ETA 2scans:  0.08s
+Average scan time:  0.013697s
+__________________________________
+Scanned point: 1190
+Average time:  2.1264e-05s
+Elapsed time:  0.025304s
+ETA 2scans:  0.084s
+Average scan time:  0.0137s
+__________________________________
+Scanned point: 1143
+Average time:  1.3377e-05s
+Elapsed time:  0.015289s
+ETA 2scans:  0.075s
+Average scan time:  0.013701s
+__________________________________
+Scanned point: 1141
+Average time:  1.5461e-05s
+Elapsed time:  0.017641s
+ETA 2scans:  0.08s
+Average scan time:  0.013702s
+__________________________________
+Scanned point: 1088
+Average time:  1.428e-05s
+Elapsed time:  0.015537s
+ETA 2scans:  0.079s
+Average scan time:  0.013702s
+__________________________________
+Scanned point: 1087
+Average time:  1.1916e-05s
+Elapsed time:  0.012953s
+ETA 2scans:  0.081s
+Average scan time:  0.013702s
+__________________________________
+Scanned point: 1047
+Average time:  1.096e-05s
+Elapsed time:  0.011475s
+ETA 2scans:  0.079s
+Average scan time:  0.013701s
+__________________________________
+Scanned point: 1053
+Average time:  1.0795e-05s
+Elapsed time:  0.011367s
+ETA 2scans:  0.081s
+Average scan time:  0.013701s
+__________________________________
+Scanned point: 1079
+Average time:  1.2881e-05s
+Elapsed time:  0.013899s
+ETA 2scans:  0.081s
+Average scan time:  0.013701s
+__________________________________
+Scanned point: 1081
+Average time:  1.409e-05s
+Elapsed time:  0.015231s
+ETA 2scans:  0.078s
+Average scan time:  0.013701s
+__________________________________
+Scanned point: 1086
+Average time:  1.4529e-05s
+Elapsed time:  0.015779s
+ETA 2scans:  0.08s
+Average scan time:  0.013702s
+__________________________________
+Scanned point: 1026
+Average time:  1.0873e-05s
+Elapsed time:  0.011155s
+ETA 2scans:  0.081s
+Average scan time:  0.013701s
+__________________________________
+Scanned point: 1008
+Average time:  7.0602e-06s
+Elapsed time:  0.0071166s
+ETA 2scans:  0.081s
+Average scan time:  0.013699s
+__________________________________
+Scanned point: 1030
+Average time:  1.0156e-05s
+Elapsed time:  0.010461s
+ETA 2scans:  0.08s
+Average scan time:  0.013699s
+__________________________________
+Scanned point: 969
+Average time:  1.1608e-05s
+Elapsed time:  0.011249s
+ETA 2scans:  0.078s
+Average scan time:  0.013698s
+__________________________________
+Scanned point: 1010
+Average time:  1.2098e-05s
+Elapsed time:  0.012219s
+ETA 2scans:  0.079s
+Average scan time:  0.013698s
+__________________________________
+Scanned point: 994
+Average time:  1.9178e-05s
+Elapsed time:  0.019063s
+ETA 2scans:  0.08s
+Average scan time:  0.013699s
+__________________________________
+Scanned point: 988
+Average time:  2.3569e-05s
+Elapsed time:  0.023286s
+ETA 2scans:  0.081s
+Average scan time:  0.013701s
+__________________________________
+Scanned point: 1003
+Average time:  3.5324e-05s
+Elapsed time:  0.03543s
+ETA 2scans:  0.081s
+Average scan time:  0.013707s
+__________________________________
+Scanned point: 1036
+Average time:  3.8866e-05s
+Elapsed time:  0.040266s
+ETA 2scans:  0.08s
+Average scan time:  0.013714s
+__________________________________
+Scanned point: 1018
+Average time:  3.3556e-05s
+Elapsed time:  0.03416s
+ETA 2scans:  0.078s
+Average scan time:  0.013719s
+__________________________________
+Scanned point: 1000
+Average time:  3.8197e-05s
+Elapsed time:  0.038197s
+ETA 2scans:  0.08s
+Average scan time:  0.013725s
+__________________________________
+Scanned point: 1014
+Average time:  3.2477e-05s
+Elapsed time:  0.032932s
+ETA 2scans:  0.081s
+Average scan time:  0.01373s
+__________________________________
+Scanned point: 990
+Average time:  2.7674e-05s
+Elapsed time:  0.027397s
+ETA 2scans:  0.079s
+Average scan time:  0.013733s
+__________________________________
+Scanned point: 1001
+Average time:  1.4201e-05s
+Elapsed time:  0.014215s
+ETA 2scans:  0.079s
+Average scan time:  0.013733s
+__________________________________
+Scanned point: 910
+Average time:  7.3427e-06s
+Elapsed time:  0.0066819s
+ETA 2scans:  0.078s
+Average scan time:  0.013731s
+__________________________________
+Scanned point: 930
+Average time:  5.4908e-06s
+Elapsed time:  0.0051064s
+ETA 2scans:  0.082s
+Average scan time:  0.013729s
+__________________________________
+Scanned point: 927
+Average time:  7.7208e-06s
+Elapsed time:  0.0071572s
+ETA 2scans:  0.079s
+Average scan time:  0.013728s
+__________________________________
+Scanned point: 932
+Average time:  6.8195e-06s
+Elapsed time:  0.0063558s
+ETA 2scans:  0.081s
+Average scan time:  0.013726s
+__________________________________
+Scanned point: 953
+Average time:  1.401e-05s
+Elapsed time:  0.013352s
+ETA 2scans:  0.08s
+Average scan time:  0.013726s
+__________________________________
+Scanned point: 940
+Average time:  2.2784e-05s
+Elapsed time:  0.021417s
+ETA 2scans:  0.079s
+Average scan time:  0.013728s
+__________________________________
+Scanned point: 939
+Average time:  3.6158e-06s
+Elapsed time:  0.0033953s
+ETA 2scans:  0.078s
+Average scan time:  0.013725s
+__________________________________
+Scanned point: 932
+Average time:  5.0045e-06s
+Elapsed time:  0.0046642s
+ETA 2scans:  0.081s
+Average scan time:  0.013723s
+__________________________________
+Scanned point: 947
+Average time:  5.9203e-06s
+Elapsed time:  0.0056065s
+ETA 2scans:  0.083s
+Average scan time:  0.013721s
+__________________________________
+Scanned point: 947
+Average time:  7.2366e-06s
+Elapsed time:  0.0068531s
+ETA 2scans:  0.078s
+Average scan time:  0.013719s
+__________________________________
+Scanned point: 945
+Average time:  9.2799e-06s
+Elapsed time:  0.0087695s
+ETA 2scans:  0.078s
+Average scan time:  0.013718s
+__________________________________
+Scanned point: 968
+Average time:  6.2136e-06s
+Elapsed time:  0.0060147s
+ETA 2scans:  0.08s
+Average scan time:  0.013716s
+__________________________________
+Scanned point: 982
+Average time:  7.3635e-06s
+Elapsed time:  0.0072309s
+ETA 2scans:  0.083s
+Average scan time:  0.013714s
+__________________________________
+Scanned point: 973
+Average time:  6.733e-06s
+Elapsed time:  0.0065512s
+ETA 2scans:  0.081s
+Average scan time:  0.013712s
+__________________________________
+Scanned point: 1042
+Average time:  8.2401e-06s
+Elapsed time:  0.0085862s
+ETA 2scans:  0.079s
+Average scan time:  0.013711s
+__________________________________
+Scanned point: 952
+Average time:  3.614e-06s
+Elapsed time:  0.0034405s
+ETA 2scans:  0.078s
+Average scan time:  0.013709s
+__________________________________
+Scanned point: 966
+Average time:  3.5336e-06s
+Elapsed time:  0.0034135s
+ETA 2scans:  0.081s
+Average scan time:  0.013706s
+__________________________________
+Scanned point: 970
+Average time:  9.6534e-06s
+Elapsed time:  0.0093638s
+ETA 2scans:  0.081s
+Average scan time:  0.013705s
+__________________________________
+Scanned point: 966
+Average time:  4.0774e-06s
+Elapsed time:  0.0039388s
+ETA 2scans:  0.078s
+Average scan time:  0.013703s
+__________________________________
+Scanned point: 1023
+Average time:  5.8512e-06s
+Elapsed time:  0.0059858s
+ETA 2scans:  0.081s
+Average scan time:  0.013701s
+__________________________________
+Scanned point: 987
+Average time:  1.0103e-05s
+Elapsed time:  0.0099712s
+ETA 2scans:  0.08s
+Average scan time:  0.0137s
+__________________________________
+Scanned point: 1011
+Average time:  6.5229e-06s
+Elapsed time:  0.0065946s
+ETA 2scans:  0.08s
+Average scan time:  0.013698s
+__________________________________
+Scanned point: 1010
+Average time:  1.2319e-05s
+Elapsed time:  0.012442s
+ETA 2scans:  0.081s
+Average scan time:  0.013698s
+__________________________________
+Scanned point: 1017
+Average time:  4.9238e-06s
+Elapsed time:  0.0050075s
+ETA 2scans:  0.082s
+Average scan time:  0.013695s
+__________________________________
+Scanned point: 982
+Average time:  5.81e-06s
+Elapsed time:  0.0057054s
+ETA 2scans:  0.08s
+Average scan time:  0.013693s
+__________________________________
+Scanned point: 995
+Average time:  1.2133e-05s
+Elapsed time:  0.012072s
+ETA 2scans:  0.081s
+Average scan time:  0.013693s
+__________________________________
+Scanned point: 939
+Average time:  9.3193e-06s
+Elapsed time:  0.0087508s
+ETA 2scans:  0.077s
+Average scan time:  0.013692s
+__________________________________
+Scanned point: 986
+Average time:  9.1183e-06s
+Elapsed time:  0.0089906s
+ETA 2scans:  0.08s
+Average scan time:  0.013691s
+__________________________________
+Scanned point: 1002
+Average time:  1.2403e-05s
+Elapsed time:  0.012427s
+ETA 2scans:  0.078s
+Average scan time:  0.01369s
+__________________________________
+Scanned point: 994
+Average time:  1.1035e-05s
+Elapsed time:  0.010969s
+ETA 2scans:  0.081s
+Average scan time:  0.01369s
+__________________________________
+Scanned point: 985
+Average time:  6.274e-06s
+Elapsed time:  0.0061799s
+ETA 2scans:  0.081s
+Average scan time:  0.013688s
+__________________________________
+Scanned point: 1002
+Average time:  7.5899e-06s
+Elapsed time:  0.0076051s
+ETA 2scans:  0.079s
+Average scan time:  0.013686s
+__________________________________
+Scanned point: 957
+Average time:  4.9386e-06s
+Elapsed time:  0.0047262s
+ETA 2scans:  0.081s
+Average scan time:  0.013684s
+__________________________________
+Scanned point: 960
+Average time:  4.1544e-06s
+Elapsed time:  0.0039882s
+ETA 2scans:  0.3s
+Average scan time:  0.013682s
+__________________________________
+Scanned point: 925
+Average time:  8.8103e-06s
+Elapsed time:  0.0081495s
+ETA 2scans:  0.004s
+Average scan time:  0.01368s
+__________________________________
+Scanned point: 896
+Average time:  9.6926e-06s
+Elapsed time:  0.0086846s
+ETA 2scans:  0.006s
+Average scan time:  0.013679s
+__________________________________
+Scanned point: 898
+Average time:  1.6707e-05s
+Elapsed time:  0.015003s
+ETA 2scans:  0.01s
+Average scan time:  0.013679s
+__________________________________
+Scanned point: 849
+Average time:  9.6061e-06s
+Elapsed time:  0.0081556s
+ETA 2scans:  0.08s
+Average scan time:  0.013678s
+__________________________________
+Scanned point: 870
+Average time:  7.2417e-06s
+Elapsed time:  0.0063002s
+ETA 2scans:  0.082s
+Average scan time:  0.013676s
+__________________________________
+Scanned point: 794
+Average time:  6.386e-06s
+Elapsed time:  0.0050705s
+ETA 2scans:  0.077s
+Average scan time:  0.013674s
+__________________________________
+Scanned point: 868
+Average time:  1.0784e-05s
+Elapsed time:  0.0093601s
+ETA 2scans:  0.079s
+Average scan time:  0.013673s
+__________________________________
+Scanned point: 778
+Average time:  1.143e-05s
+Elapsed time:  0.0088927s
+ETA 2scans:  0.075s
+Average scan time:  0.013672s
+__________________________________
+Scanned point: 830
+Average time:  1.5868e-05s
+Elapsed time:  0.01317s
+ETA 2scans:  0.083s
+Average scan time:  0.013672s
+__________________________________
+Scanned point: 786
+Average time:  1.3913e-05s
+Elapsed time:  0.010936s
+ETA 2scans:  0.079s
+Average scan time:  0.013671s
+__________________________________
+Scanned point: 796
+Average time:  6.6953e-06s
+Elapsed time:  0.0053294s
+ETA 2scans:  0.08s
+Average scan time:  0.013669s
+__________________________________
+Scanned point: 756
+Average time:  8.0665e-06s
+Elapsed time:  0.0060982s
+ETA 2scans:  0.081s
+Average scan time:  0.013667s
+__________________________________
+Scanned point: 727
+Average time:  9.6376e-06s
+Elapsed time:  0.0070065s
+ETA 2scans:  0.079s
+Average scan time:  0.013665s
+__________________________________
+Scanned point: 755
+Average time:  9.3191e-06s
+Elapsed time:  0.0070359s
+ETA 2scans:  0.077s
+Average scan time:  0.013664s
+__________________________________
+Scanned point: 737
+Average time:  9.8923e-06s
+Elapsed time:  0.0072906s
+ETA 2scans:  0.079s
+Average scan time:  0.013662s
+__________________________________
+Scanned point: 759
+Average time:  1.3584e-05s
+Elapsed time:  0.01031s
+ETA 2scans:  0.09s
+Average scan time:  0.013661s
+__________________________________
+Scanned point: 715
+Average time:  1.1593e-05s
+Elapsed time:  0.008289s
+ETA 2scans:  0.071s
+Average scan time:  0.01366s
+__________________________________
+Scanned point: 721
+Average time:  1.2459e-05s
+Elapsed time:  0.0089832s
+ETA 2scans:  0.079s
+Average scan time:  0.013659s
+__________________________________
+Scanned point: 717
+Average time:  1.1761e-05s
+Elapsed time:  0.0084327s
+ETA 2scans:  0.084s
+Average scan time:  0.013657s
+__________________________________
+Scanned point: 678
+Average time:  1.0872e-05s
+Elapsed time:  0.0073714s
+ETA 2scans:  0.08s
+Average scan time:  0.013656s
+__________________________________
+Scanned point: 693
+Average time:  1.3284e-05s
+Elapsed time:  0.0092057s
+ETA 2scans:  0.078s
+Average scan time:  0.013655s
+__________________________________
+Scanned point: 674
+Average time:  1.1285e-05s
+Elapsed time:  0.007606s
+ETA 2scans:  0.079s
+Average scan time:  0.013653s
+__________________________________
+Scanned point: 655
+Average time:  8.1543e-06s
+Elapsed time:  0.0053411s
+ETA 2scans:  0.079s
+Average scan time:  0.013651s
+__________________________________
+Scanned point: 646
+Average time:  6.9572e-06s
+Elapsed time:  0.0044944s
+ETA 2scans:  0.085s
+Average scan time:  0.013649s
+__________________________________
+Scanned point: 601
+Average time:  8.2311e-06s
+Elapsed time:  0.0049469s
+ETA 2scans:  0.075s
+Average scan time:  0.013647s
+__________________________________
+Scanned point: 609
+Average time:  1.3107e-05s
+Elapsed time:  0.007982s
+ETA 2scans:  0.081s
+Average scan time:  0.013645s
+__________________________________
+Scanned point: 598
+Average time:  1.4353e-05s
+Elapsed time:  0.0085829s
+ETA 2scans:  0.08s
+Average scan time:  0.013644s
+__________________________________
+Scanned point: 631
+Average time:  1.0082e-05s
+Elapsed time:  0.0063618s
+ETA 2scans:  0.08s
+Average scan time:  0.013642s
+__________________________________
+Scanned point: 553
+Average time:  1.5203e-05s
+Elapsed time:  0.008407s
+ETA 2scans:  0.081s
+Average scan time:  0.013641s
+__________________________________
+Scanned point: 599
+Average time:  8.2134e-06s
+Elapsed time:  0.0049198s
+ETA 2scans:  0.082s
+Average scan time:  0.013639s
+__________________________________
+Scanned point: 519
+Average time:  5.4345e-06s
+Elapsed time:  0.0028205s
+ETA 2scans:  0.079s
+Average scan time:  0.013636s
+__________________________________
+Scanned point: 503
+Average time:  1.1831e-05s
+Elapsed time:  0.0059508s
+ETA 2scans:  0.079s
+Average scan time:  0.013634s
+__________________________________
+Scanned point: 480
+Average time:  8.6567e-06s
+Elapsed time:  0.0041552s
+ETA 2scans:  0.079s
+Average scan time:  0.013632s
+__________________________________
+Scanned point: 528
+Average time:  9.7004e-06s
+Elapsed time:  0.0051218s
+ETA 2scans:  0.081s
+Average scan time:  0.01363s
+__________________________________
+Scanned point: 539
+Average time:  2.6125e-05s
+Elapsed time:  0.014081s
+ETA 2scans:  0.079s
+Average scan time:  0.01363s
+__________________________________
+Scanned point: 553
+Average time:  1.3687e-05s
+Elapsed time:  0.0075692s
+ETA 2scans:  0.081s
+Average scan time:  0.013628s
+__________________________________
+Scanned point: 552
+Average time:  1.3532e-05s
+Elapsed time:  0.0074698s
+ETA 2scans:  0.089s
+Average scan time:  0.013627s
+__________________________________
+Scanned point: 546
+Average time:  2.525e-05s
+Elapsed time:  0.013786s
+ETA 2scans:  0.074s
+Average scan time:  0.013627s
+__________________________________
+Scanned point: 595
+Average time:  2.0887e-05s
+Elapsed time:  0.012428s
+ETA 2scans:  0.081s
+Average scan time:  0.013627s
+__________________________________
+Scanned point: 539
+Average time:  4.5682e-06s
+Elapsed time:  0.0024622s
+ETA 2scans:  0.079s
+Average scan time:  0.013624s
+__________________________________
+Scanned point: 602
+Average time:  3.085e-06s
+Elapsed time:  0.0018572s
+ETA 2scans:  0.081s
+Average scan time:  0.013621s
+__________________________________
+Scanned point: 565
+Average time:  3.8287e-06s
+Elapsed time:  0.0021632s
+ETA 2scans:  0.084s
+Average scan time:  0.013618s
+__________________________________
+Scanned point: 609
+Average time:  3.9106e-06s
+Elapsed time:  0.0023815s
+ETA 2scans:  0.069s
+Average scan time:  0.013615s
+__________________________________
+Scanned point: 676
+Average time:  3.2773e-06s
+Elapsed time:  0.0022155s
+ETA 2scans:  0.092s
+Average scan time:  0.013613s
+__________________________________
+Scanned point: 578
+Average time:  4.578e-06s
+Elapsed time:  0.0026461s
+ETA 2scans:  0.074s
+Average scan time:  0.01361s
+__________________________________
+Scanned point: 613
+Average time:  6.5502e-06s
+Elapsed time:  0.0040153s
+ETA 2scans:  0.079s
+Average scan time:  0.013608s
+__________________________________
+Scanned point: 625
+Average time:  5.3817e-06s
+Elapsed time:  0.0033636s
+ETA 2scans:  0.08s
+Average scan time:  0.013605s
+__________________________________
+Scanned point: 676
+Average time:  1.9737e-05s
+Elapsed time:  0.013342s
+ETA 2scans:  0.09s
+Average scan time:  0.013605s
+__________________________________
+Scanned point: 686
+Average time:  8.6944e-06s
+Elapsed time:  0.0059644s
+ETA 2scans:  0.073s
+Average scan time:  0.013603s
+__________________________________
+Scanned point: 727
+Average time:  6.5915e-06s
+Elapsed time:  0.004792s
+ETA 2scans:  0.081s
+Average scan time:  0.013601s
+__________________________________
+Scanned point: 702
+Average time:  6.6833e-06s
+Elapsed time:  0.0046917s
+ETA 2scans:  0.077s
+Average scan time:  0.013599s
+__________________________________
+Scanned point: 766
+Average time:  5.8503e-06s
+Elapsed time:  0.0044813s
+ETA 2scans:  0.079s
+Average scan time:  0.013597s
+__________________________________
+Scanned point: 775
+Average time:  9.187e-06s
+Elapsed time:  0.0071199s
+ETA 2scans:  0.078s
+Average scan time:  0.013595s
+__________________________________
+Scanned point: 777
+Average time:  6.0767e-06s
+Elapsed time:  0.0047216s
+ETA 2scans:  0.08s
+Average scan time:  0.013593s
+__________________________________
+Scanned point: 803
+Average time:  1.1981e-05s
+Elapsed time:  0.0096209s
+ETA 2scans:  0.084s
+Average scan time:  0.013592s
+__________________________________
+Scanned point: 858
+Average time:  8.6381e-06s
+Elapsed time:  0.0074115s
+ETA 2scans:  0.082s
+Average scan time:  0.01359s
+__________________________________
+Scanned point: 803
+Average time:  6.6607e-06s
+Elapsed time:  0.0053486s
+ETA 2scans:  0.08s
+Average scan time:  0.013588s
+__________________________________
+Scanned point: 866
+Average time:  1.2822e-05s
+Elapsed time:  0.011103s
+ETA 2scans:  0.078s
+Average scan time:  0.013588s
+__________________________________
+Scanned point: 847
+Average time:  8.9243e-06s
+Elapsed time:  0.0075589s
+ETA 2scans:  0.077s
+Average scan time:  0.013586s
+__________________________________
+Scanned point: 876
+Average time:  9.2567e-06s
+Elapsed time:  0.0081089s
+ETA 2scans:  0.083s
+Average scan time:  0.013585s
+__________________________________
+Scanned point: 879
+Average time:  1.0046e-05s
+Elapsed time:  0.0088301s
+ETA 2scans:  0.085s
+Average scan time:  0.013584s
+__________________________________
+Scanned point: 875
+Average time:  1.313e-05s
+Elapsed time:  0.011489s
+ETA 2scans:  0.074s
+Average scan time:  0.013583s
+__________________________________
+Scanned point: 898
+Average time:  9.7453e-06s
+Elapsed time:  0.0087513s
+ETA 2scans:  0.082s
+Average scan time:  0.013582s
+__________________________________
+Scanned point: 938
+Average time:  1.0922e-05s
+Elapsed time:  0.010245s
+ETA 2scans:  0.081s
+Average scan time:  0.013581s
+__________________________________
+Scanned point: 913
+Average time:  1.1806e-05s
+Elapsed time:  0.010779s
+ETA 2scans:  0.082s
+Average scan time:  0.01358s
+__________________________________
+Scanned point: 906
+Average time:  1.057e-05s
+Elapsed time:  0.0095766s
+ETA 2scans:  0.077s
+Average scan time:  0.013579s
+__________________________________
+Scanned point: 884
+Average time:  7.252e-06s
+Elapsed time:  0.0064108s
+ETA 2scans:  0.08s
+Average scan time:  0.013578s
+__________________________________
+Scanned point: 917
+Average time:  9.1425e-06s
+Elapsed time:  0.0083837s
+ETA 2scans:  0.082s
+Average scan time:  0.013576s
+__________________________________
+Scanned point: 932
+Average time:  9.4769e-06s
+Elapsed time:  0.0088325s
+ETA 2scans:  0.078s
+Average scan time:  0.013575s
+__________________________________
+Scanned point: 943
+Average time:  1.4949e-05s
+Elapsed time:  0.014097s
+ETA 2scans:  0.088s
+Average scan time:  0.013575s
+__________________________________
+Scanned point: 935
+Average time:  1.0541e-05s
+Elapsed time:  0.009856s
+ETA 2scans:  0.074s
+Average scan time:  0.013575s
+__________________________________
+Scanned point: 960
+Average time:  6.19e-06s
+Elapsed time:  0.0059424s
+ETA 2scans:  0.082s
+Average scan time:  0.013573s
+__________________________________
+Scanned point: 937
+Average time:  6.3076e-06s
+Elapsed time:  0.0059102s
+ETA 2scans:  0.076s
+Average scan time:  0.013571s
+__________________________________
+Scanned point: 973
+Average time:  9.2032e-06s
+Elapsed time:  0.0089547s
+ETA 2scans:  0.081s
+Average scan time:  0.01357s
+__________________________________
+Scanned point: 972
+Average time:  9.1483e-06s
+Elapsed time:  0.0088922s
+ETA 2scans:  0.081s
+Average scan time:  0.013568s
+__________________________________
+Scanned point: 976
+Average time:  1.0258e-05s
+Elapsed time:  0.010012s
+ETA 2scans:  0.077s
+Average scan time:  0.013568s
+__________________________________
+Scanned point: 1023
+Average time:  8.9527e-06s
+Elapsed time:  0.0091586s
+ETA 2scans:  0.084s
+Average scan time:  0.013567s
+__________________________________
+Scanned point: 1013
+Average time:  1.3857e-05s
+Elapsed time:  0.014037s
+ETA 2scans:  0.08s
+Average scan time:  0.013567s
+__________________________________
+Scanned point: 993
+Average time:  8.4832e-06s
+Elapsed time:  0.0084238s
+ETA 2scans:  0.082s
+Average scan time:  0.013565s
+__________________________________
+Scanned point: 1060
+Average time:  1.6021e-05s
+Elapsed time:  0.016982s
+ETA 2scans:  0.077s
+Average scan time:  0.013566s
+__________________________________
+Scanned point: 1028
+Average time:  1.7201e-05s
+Elapsed time:  0.017682s
+ETA 2scans:  0.082s
+Average scan time:  0.013567s
+__________________________________
+Scanned point: 1037
+Average time:  6.546e-06s
+Elapsed time:  0.0067882s
+ETA 2scans:  0.076s
+Average scan time:  0.013566s
+__________________________________
+Scanned point: 1018
+Average time:  8.9801e-06s
+Elapsed time:  0.0091418s
+ETA 2scans:  0.081s
+Average scan time:  0.013565s
+__________________________________
+Scanned point: 1037
+Average time:  1.5956e-05s
+Elapsed time:  0.016547s
+ETA 2scans:  0.082s
+Average scan time:  0.013565s
+__________________________________
+Scanned point: 1031
+Average time:  1.8051e-05s
+Elapsed time:  0.018611s
+ETA 2scans:  0.079s
+Average scan time:  0.013566s
+__________________________________
+Scanned point: 1012
+Average time:  5.748e-06s
+Elapsed time:  0.0058169s
+ETA 2scans:  0.079s
+Average scan time:  0.013565s
+__________________________________
+Scanned point: 1005
+Average time:  7.0511e-06s
+Elapsed time:  0.0070863s
+ETA 2scans:  0.083s
+Average scan time:  0.013563s
+__________________________________
+Scanned point: 914
+Average time:  7.1518e-06s
+Elapsed time:  0.0065368s
+ETA 2scans:  0.075s
+Average scan time:  0.013561s
+__________________________________
+Scanned point: 972
+Average time:  1.0302e-05s
+Elapsed time:  0.010014s
+ETA 2scans:  0.08s
+Average scan time:  0.01356s
+__________________________________
+Scanned point: 928
+Average time:  1.3682e-05s
+Elapsed time:  0.012697s
+ETA 2scans:  0.082s
+Average scan time:  0.01356s
+__________________________________
+Scanned point: 915
+Average time:  7.1221e-06s
+Elapsed time:  0.0065167s
+ETA 2scans:  0.086s
+Average scan time:  0.013558s
+__________________________________
+Scanned point: 898
+Average time:  4.6381e-06s
+Elapsed time:  0.004165s
+ETA 2scans:  0.076s
+Average scan time:  0.013556s
+__________________________________
+Scanned point: 918
+Average time:  7.7869e-06s
+Elapsed time:  0.0071484s
+ETA 2scans:  0.076s
+Average scan time:  0.013555s
+__________________________________
+Scanned point: 883
+Average time:  1.0576e-05s
+Elapsed time:  0.0093382s
+ETA 2scans:  0.086s
+Average scan time:  0.013554s
+__________________________________
+Scanned point: 849
+Average time:  5.6646e-06s
+Elapsed time:  0.0048093s
+ETA 2scans:  0.071s
+Average scan time:  0.013552s
+__________________________________
+Scanned point: 905
+Average time:  6.1616e-06s
+Elapsed time:  0.0055762s
+ETA 2scans:  0.087s
+Average scan time:  0.01355s
+__________________________________
+Scanned point: 883
+Average time:  1.1831e-05s
+Elapsed time:  0.010447s
+ETA 2scans:  0.076s
+Average scan time:  0.013549s
+__________________________________
+Scanned point: 906
+Average time:  6.3813e-06s
+Elapsed time:  0.0057815s
+ETA 2scans:  0.082s
+Average scan time:  0.013547s
+__________________________________
+Scanned point: 853
+Average time:  8.7286e-06s
+Elapsed time:  0.0074455s
+ETA 2scans:  0.079s
+Average scan time:  0.013545s
+__________________________________
+Scanned point: 912
+Average time:  1.0409e-05s
+Elapsed time:  0.0094926s
+ETA 2scans:  0.083s
+Average scan time:  0.013544s
+__________________________________
+Scanned point: 838
+Average time:  6.1303e-06s
+Elapsed time:  0.0051372s
+ETA 2scans:  0.075s
+Average scan time:  0.013542s
+__________________________________
+Scanned point: 855
+Average time:  7.8729e-06s
+Elapsed time:  0.0067313s
+ETA 2scans:  0.083s
+Average scan time:  0.013541s
+__________________________________
+Scanned point: 850
+Average time:  1.4189e-05s
+Elapsed time:  0.012061s
+ETA 2scans:  0.078s
+Average scan time:  0.01354s
+__________________________________
+Scanned point: 816
+Average time:  7.4253e-06s
+Elapsed time:  0.0060591s
+ETA 2scans:  0.081s
+Average scan time:  0.013539s
+__________________________________
+Scanned point: 783
+Average time:  7.7615e-06s
+Elapsed time:  0.0060773s
+ETA 2scans:  0.08s
+Average scan time:  0.013537s
+__________________________________
+Scanned point: 795
+Average time:  1.3503e-05s
+Elapsed time:  0.010735s
+ETA 2scans:  0.082s
+Average scan time:  0.013536s
+__________________________________
+Scanned point: 786
+Average time:  1.5267e-05s
+Elapsed time:  0.012s
+ETA 2scans:  0.079s
+Average scan time:  0.013536s
+__________________________________
+Scanned point: 767
+Average time:  1.1718e-05s
+Elapsed time:  0.0089874s
+ETA 2scans:  0.079s
+Average scan time:  0.013535s
+__________________________________
+Scanned point: 728
+Average time:  1.0211e-05s
+Elapsed time:  0.0074334s
+ETA 2scans:  0.082s
+Average scan time:  0.013533s
+__________________________________
+Scanned point: 726
+Average time:  8.9935e-06s
+Elapsed time:  0.0065293s
+ETA 2scans:  0.078s
+Average scan time:  0.013531s
+__________________________________
+Scanned point: 708
+Average time:  1.199e-05s
+Elapsed time:  0.0084887s
+ETA 2scans:  0.074s
+Average scan time:  0.01353s
+__________________________________
+Scanned point: 735
+Average time:  2.0148e-05s
+Elapsed time:  0.014809s
+ETA 2scans:  0.086s
+Average scan time:  0.013531s
+__________________________________
+Scanned point: 750
+Average time:  1.3347e-05s
+Elapsed time:  0.01001s
+ETA 2scans:  0.079s
+Average scan time:  0.01353s
+__________________________________
+Scanned point: 745
+Average time:  1.4304e-05s
+Elapsed time:  0.010657s
+ETA 2scans:  0.08s
+Average scan time:  0.013529s
+__________________________________
+Scanned point: 722
+Average time:  8.876e-06s
+Elapsed time:  0.0064085s
+ETA 2scans:  0.076s
+Average scan time:  0.013527s
+__________________________________
+Scanned point: 756
+Average time:  5.5611e-06s
+Elapsed time:  0.0042042s
+ETA 2scans:  0.086s
+Average scan time:  0.013525s
+__________________________________
+Scanned point: 763
+Average time:  5.3933e-06s
+Elapsed time:  0.0041151s
+ETA 2scans:  0.08s
+Average scan time:  0.013523s
+__________________________________
+Scanned point: 780
+Average time:  6.3254e-06s
+Elapsed time:  0.0049338s
+ETA 2scans:  0.08s
+Average scan time:  0.013521s
+__________________________________
+Scanned point: 771
+Average time:  8.8274e-06s
+Elapsed time:  0.0068059s
+ETA 2scans:  0.079s
+Average scan time:  0.013519s
+__________________________________
+Scanned point: 787
+Average time:  1.2416e-05s
+Elapsed time:  0.0097711s
+ETA 2scans:  0.081s
+Average scan time:  0.013518s
+__________________________________
+Scanned point: 768
+Average time:  1.4928e-05s
+Elapsed time:  0.011465s
+ETA 2scans:  0.086s
+Average scan time:  0.013518s
+__________________________________
+Scanned point: 785
+Average time:  1.2625e-05s
+Elapsed time:  0.0099106s
+ETA 2scans:  0.072s
+Average scan time:  0.013517s
+__________________________________
+Scanned point: 769
+Average time:  1.1319e-05s
+Elapsed time:  0.0087046s
+ETA 2scans:  0.079s
+Average scan time:  0.013516s
+__________________________________
+Scanned point: 760
+Average time:  6.158e-06s
+Elapsed time:  0.00468s
+ETA 2scans:  0.079s
+Average scan time:  0.013513s
+__________________________________
+Scanned point: 785
+Average time:  8.0157e-06s
+Elapsed time:  0.0062923s
+ETA 2scans:  0.089s
+Average scan time:  0.013512s
+__________________________________
+Scanned point: 779
+Average time:  1.0674e-05s
+Elapsed time:  0.0083151s
+ETA 2scans:  0.07s
+Average scan time:  0.01351s
+__________________________________
+Scanned point: 731
+Average time:  8.724e-06s
+Elapsed time:  0.0063772s
+ETA 2scans:  0.081s
+Average scan time:  0.013509s
+__________________________________
+Scanned point: 718
+Average time:  7.1068e-06s
+Elapsed time:  0.0051027s
+ETA 2scans:  0.077s
+Average scan time:  0.013507s
+__________________________________
+Scanned point: 699
+Average time:  8.0081e-06s
+Elapsed time:  0.0055977s
+ETA 2scans:  0.081s
+Average scan time:  0.013505s
+__________________________________
+Scanned point: 690
+Average time:  5.803e-06s
+Elapsed time:  0.0040041s
+ETA 2scans:  0.087s
+Average scan time:  0.013503s
+__________________________________
+Scanned point: 687
+Average time:  8.347e-06s
+Elapsed time:  0.0057344s
+ETA 2scans:  0.073s
+Average scan time:  0.013501s
+__________________________________
+Scanned point: 694
+Average time:  8.3226e-06s
+Elapsed time:  0.0057759s
+ETA 2scans:  0.081s
+Average scan time:  0.013499s
+__________________________________
+Scanned point: 670
+Average time:  5.5626e-06s
+Elapsed time:  0.003727s
+ETA 2scans:  0.079s
+Average scan time:  0.013496s
+__________________________________
+Scanned point: 711
+Average time:  3.179e-06s
+Elapsed time:  0.0022603s
+ETA 2scans:  0.077s
+Average scan time:  0.013494s
+__________________________________
+Scanned point: 674
+Average time:  4.1252e-06s
+Elapsed time:  0.0027804s
+ETA 2scans:  0.081s
+Average scan time:  0.013491s
+__________________________________
+Scanned point: 677
+Average time:  4.7395e-06s
+Elapsed time:  0.0032087s
+ETA 2scans:  0.082s
+Average scan time:  0.013489s
+__________________________________
+Scanned point: 663
+Average time:  6.4277e-06s
+Elapsed time:  0.0042616s
+ETA 2scans:  0.079s
+Average scan time:  0.013486s
+__________________________________
+Scanned point: 680
+Average time:  5.1652e-06s
+Elapsed time:  0.0035124s
+ETA 2scans:  0.08s
+Average scan time:  0.013484s
+__________________________________
+Scanned point: 657
+Average time:  7.7383e-06s
+Elapsed time:  0.005084s
+ETA 2scans:  0.078s
+Average scan time:  0.013482s
+__________________________________
+Scanned point: 672
+Average time:  1.3511e-05s
+Elapsed time:  0.0090797s
+ETA 2scans:  0.08s
+Average scan time:  0.013481s
+__________________________________
+Scanned point: 703
+Average time:  1.3614e-05s
+Elapsed time:  0.0095705s
+ETA 2scans:  0.08s
+Average scan time:  0.01348s
+__________________________________
+Scanned point: 687
+Average time:  2.3278e-06s
+Elapsed time:  0.0015992s
+ETA 2scans:  0.08s
+Average scan time:  0.013477s
+__________________________________
+Scanned point: 709
+Average time:  5.3475e-06s
+Elapsed time:  0.0037913s
+ETA 2scans:  0.082s
+Average scan time:  0.013475s
+__________________________________
+Scanned point: 687
+Average time:  4.4315e-06s
+Elapsed time:  0.0030445s
+ETA 2scans:  0.077s
+Average scan time:  0.013472s
+__________________________________
+Scanned point: 791
+Average time:  6.6314e-06s
+Elapsed time:  0.0052455s
+ETA 2scans:  0.083s
+Average scan time:  0.01347s
+__________________________________
+Scanned point: 717
+Average time:  6.8702e-06s
+Elapsed time:  0.0049259s
+ETA 2scans:  0.075s
+Average scan time:  0.013468s
+__________________________________
+Scanned point: 771
+Average time:  6.1318e-06s
+Elapsed time:  0.0047276s
+ETA 2scans:  0.085s
+Average scan time:  0.013466s
+__________________________________
+Scanned point: 732
+Average time:  1.0598e-05s
+Elapsed time:  0.0077576s
+ETA 2scans:  0.075s
+Average scan time:  0.013465s
+__________________________________
+Scanned point: 773
+Average time:  1.2758e-05s
+Elapsed time:  0.0098621s
+ETA 2scans:  0.084s
+Average scan time:  0.013464s
+__________________________________
+Scanned point: 752
+Average time:  1.0224e-05s
+Elapsed time:  0.0076886s
+ETA 2scans:  0.082s
+Average scan time:  0.013463s
+__________________________________
+Scanned point: 770
+Average time:  1.1917e-05s
+Elapsed time:  0.0091763s
+ETA 2scans:  0.077s
+Average scan time:  0.013462s
+__________________________________
+Scanned point: 779
+Average time:  1.1903e-05s
+Elapsed time:  0.0092724s
+ETA 2scans:  0.082s
+Average scan time:  0.013461s
+__________________________________
+Scanned point: 759
+Average time:  1.1542e-05s
+Elapsed time:  0.0087602s
+ETA 2scans:  0.077s
+Average scan time:  0.013459s
+__________________________________
+Scanned point: 758
+Average time:  5.9686e-06s
+Elapsed time:  0.0045242s
+ETA 2scans:  0.079s
+Average scan time:  0.013457s
+__________________________________
+Scanned point: 759
+Average time:  4.8089e-06s
+Elapsed time:  0.00365s
+ETA 2scans:  0.08s
+Average scan time:  0.013455s
+__________________________________
+Scanned point: 756
+Average time:  5.0255e-06s
+Elapsed time:  0.0037993s
+ETA 2scans:  0.08s
+Average scan time:  0.013453s
+__________________________________
+Scanned point: 746
+Average time:  6.5674e-06s
+Elapsed time:  0.0048993s
+ETA 2scans:  0.081s
+Average scan time:  0.013451s
+__________________________________
+Scanned point: 782
+Average time:  6.8539e-06s
+Elapsed time:  0.0053598s
+ETA 2scans:  0.08s
+Average scan time:  0.013449s
+__________________________________
+Scanned point: 758
+Average time:  9.9685e-06s
+Elapsed time:  0.0075561s
+ETA 2scans:  0.08s
+Average scan time:  0.013447s
+__________________________________
+Scanned point: 787
+Average time:  7.0125e-06s
+Elapsed time:  0.0055188s
+ETA 2scans:  0.08s
+Average scan time:  0.013445s
+__________________________________
+Scanned point: 773
+Average time:  1.0472e-05s
+Elapsed time:  0.0080949s
+ETA 2scans:  0.081s
+Average scan time:  0.013444s
+__________________________________
+Scanned point: 776
+Average time:  9.3405e-06s
+Elapsed time:  0.0072482s
+ETA 2scans:  0.08s
+Average scan time:  0.013443s
+__________________________________
+Scanned point: 810
+Average time:  1.2544e-05s
+Elapsed time:  0.010161s
+ETA 2scans:  0.079s
+Average scan time:  0.013442s
+__________________________________
+Scanned point: 814
+Average time:  8.019e-06s
+Elapsed time:  0.0065274s
+ETA 2scans:  0.083s
+Average scan time:  0.01344s
+__________________________________
+Scanned point: 757
+Average time:  4.4648e-06s
+Elapsed time:  0.0033799s
+ETA 2scans:  0.079s
+Average scan time:  0.013438s
+__________________________________
+Scanned point: 794
+Average time:  5.2533e-06s
+Elapsed time:  0.0041711s
+ETA 2scans:  0.08s
+Average scan time:  0.013435s
+__________________________________
+Scanned point: 796
+Average time:  4.7876e-06s
+Elapsed time:  0.0038109s
+ETA 2scans:  0.081s
+Average scan time:  0.013433s
+__________________________________
+Scanned point: 750
+Average time:  5.9067e-06s
+Elapsed time:  0.00443s
+ETA 2scans:  0.082s
+Average scan time:  0.013431s
+__________________________________
+Scanned point: 740
+Average time:  9.8251e-06s
+Elapsed time:  0.0072706s
+ETA 2scans:  0.076s
+Average scan time:  0.01343s
+__________________________________
+Scanned point: 707
+Average time:  1.12e-05s
+Elapsed time:  0.0079181s
+ETA 2scans:  0.079s
+Average scan time:  0.013428s
+__________________________________
+Scanned point: 709
+Average time:  6.316e-06s
+Elapsed time:  0.004478s
+ETA 2scans:  0.08s
+Average scan time:  0.013426s
+__________________________________
+Scanned point: 725
+Average time:  7.7087e-06s
+Elapsed time:  0.0055888s
+ETA 2scans:  0.081s
+Average scan time:  0.013424s
+__________________________________
+Scanned point: 718
+Average time:  6.9425e-06s
+Elapsed time:  0.0049847s
+ETA 2scans:  0.08s
+Average scan time:  0.013422s
+__________________________________
+Scanned point: 680
+Average time:  1.6989e-05s
+Elapsed time:  0.011553s
+ETA 2scans:  0.079s
+Average scan time:  0.013422s
+__________________________________
+Scanned point: 698
+Average time:  9.9104e-06s
+Elapsed time:  0.0069174s
+ETA 2scans:  0.082s
+Average scan time:  0.01342s
+__________________________________
+Scanned point: 691
+Average time:  1.1227e-05s
+Elapsed time:  0.0077581s
+ETA 2scans:  0.079s
+Average scan time:  0.013419s
+__________________________________
+Scanned point: 721
+Average time:  9.7379e-06s
+Elapsed time:  0.007021s
+ETA 2scans:  0.079s
+Average scan time:  0.013417s
+__________________________________
+Scanned point: 729
+Average time:  7.5109e-06s
+Elapsed time:  0.0054755s
+ETA 2scans:  0.081s
+Average scan time:  0.013415s
+__________________________________
+Scanned point: 748
+Average time:  8.0324e-06s
+Elapsed time:  0.0060082s
+ETA 2scans:  0.082s
+Average scan time:  0.013414s
+__________________________________
+Scanned point: 725
+Average time:  8.515e-06s
+Elapsed time:  0.0061734s
+ETA 2scans:  0.079s
+Average scan time:  0.013412s
+__________________________________
+Scanned point: 723
+Average time:  1.0501e-05s
+Elapsed time:  0.007592s
+ETA 2scans:  0.081s
+Average scan time:  0.013411s
+__________________________________
+Scanned point: 707
+Average time:  1.1871e-05s
+Elapsed time:  0.008393s
+ETA 2scans:  0.079s
+Average scan time:  0.013409s
+__________________________________
+Scanned point: 716
+Average time:  1.1819e-05s
+Elapsed time:  0.0084625s
+ETA 2scans:  0.081s
+Average scan time:  0.013408s
+__________________________________
+Scanned point: 737
+Average time:  9.5632e-06s
+Elapsed time:  0.0070481s
+ETA 2scans:  0.08s
+Average scan time:  0.013407s
+__________________________________
+Scanned point: 718
+Average time:  7.7949e-06s
+Elapsed time:  0.0055967s
+ETA 2scans:  0.081s
+Average scan time:  0.013405s
+__________________________________
+Scanned point: 740
+Average time:  9.8516e-06s
+Elapsed time:  0.0072902s
+ETA 2scans:  0.085s
+Average scan time:  0.013403s
+__________________________________
+Scanned point: 736
+Average time:  8.7243e-06s
+Elapsed time:  0.0064211s
+ETA 2scans:  0.077s
+Average scan time:  0.013402s
+__________________________________
+Scanned point: 752
+Average time:  1.2183e-05s
+Elapsed time:  0.0091618s
+ETA 2scans:  0.084s
+Average scan time:  0.013401s
+__________________________________
+Scanned point: 763
+Average time:  1.053e-05s
+Elapsed time:  0.0080343s
+ETA 2scans:  0.076s
+Average scan time:  0.013399s
+__________________________________
+Scanned point: 799
+Average time:  7.3603e-06s
+Elapsed time:  0.0058808s
+ETA 2scans:  0.08s
+Average scan time:  0.013398s
+__________________________________
+Scanned point: 791
+Average time:  6.192e-06s
+Elapsed time:  0.0048979s
+ETA 2scans:  0.079s
+Average scan time:  0.013396s
+__________________________________
+Scanned point: 791
+Average time:  6.6827e-06s
+Elapsed time:  0.005286s
+ETA 2scans:  0.081s
+Average scan time:  0.013394s
+__________________________________
+Scanned point: 837
+Average time:  4.902e-06s
+Elapsed time:  0.004103s
+ETA 2scans:  0.079s
+Average scan time:  0.013391s
+__________________________________
+Scanned point: 907
+Average time:  5.5493e-06s
+Elapsed time:  0.0050332s
+ETA 2scans:  0.081s
+Average scan time:  0.01339s
+__________________________________
+Scanned point: 816
+Average time:  1.1121e-05s
+Elapsed time:  0.0090746s
+ETA 2scans:  0.083s
+Average scan time:  0.013388s
+__________________________________
+Scanned point: 898
+Average time:  9.6456e-06s
+Elapsed time:  0.0086617s
+ETA 2scans:  0.083s
+Average scan time:  0.013387s
+__________________________________
+Scanned point: 811
+Average time:  3.976e-06s
+Elapsed time:  0.0032245s
+ETA 2scans:  0.079s
+Average scan time:  0.013385s
+__________________________________
+Scanned point: 820
+Average time:  3.7071e-06s
+Elapsed time:  0.0030398s
+ETA 2scans:  0.08s
+Average scan time:  0.013383s
+__________________________________
+Scanned point: 845
+Average time:  4.235e-06s
+Elapsed time:  0.0035786s
+ETA 2scans:  0.076s
+Average scan time:  0.01338s
+__________________________________
+Scanned point: 854
+Average time:  6.7147e-06s
+Elapsed time:  0.0057344s
+ETA 2scans:  0.082s
+Average scan time:  0.013378s
+__________________________________
+Scanned point: 936
+Average time:  1.1021e-05s
+Elapsed time:  0.010316s
+ETA 2scans:  0.081s
+Average scan time:  0.013378s
+__________________________________
+Scanned point: 975
+Average time:  1.157e-05s
+Elapsed time:  0.011281s
+ETA 2scans:  0.081s
+Average scan time:  0.013377s
+__________________________________
+Scanned point: 916
+Average time:  1.2265e-05s
+Elapsed time:  0.011235s
+ETA 2scans:  0.078s
+Average scan time:  0.013377s
+__________________________________
+Scanned point: 854
+Average time:  7.7783e-06s
+Elapsed time:  0.0066427s
+ETA 2scans:  0.08s
+Average scan time:  0.013375s
+__________________________________
+Scanned point: 838
+Average time:  6.7232e-06s
+Elapsed time:  0.0056341s
+ETA 2scans:  0.079s
+Average scan time:  0.013373s
+__________________________________
+Scanned point: 841
+Average time:  9.5e-06s
+Elapsed time:  0.0079895s
+ETA 2scans:  0.079s
+Average scan time:  0.013372s
+__________________________________
+Scanned point: 811
+Average time:  1.1097e-05s
+Elapsed time:  0.0089995s
+ETA 2scans:  0.075s
+Average scan time:  0.013371s
+__________________________________
+Scanned point: 836
+Average time:  1.5149e-05s
+Elapsed time:  0.012665s
+ETA 2scans:  0.087s
+Average scan time:  0.013371s
+__________________________________
+Scanned point: 903
+Average time:  1.81e-05s
+Elapsed time:  0.016345s
+ETA 2scans:  0.08s
+Average scan time:  0.013371s
+__________________________________
+Scanned point: 813
+Average time:  1.1261e-05s
+Elapsed time:  0.0091548s
+ETA 2scans:  0.08s
+Average scan time:  0.01337s
+__________________________________
+Scanned point: 828
+Average time:  1.9911e-05s
+Elapsed time:  0.016486s
+ETA 2scans:  0.079s
+Average scan time:  0.013371s
+__________________________________
+Scanned point: 805
+Average time:  1.3878e-05s
+Elapsed time:  0.011172s
+ETA 2scans:  0.081s
+Average scan time:  0.013371s
+__________________________________
+Scanned point: 814
+Average time:  1.1572e-05s
+Elapsed time:  0.0094193s
+ETA 2scans:  0.082s
+Average scan time:  0.01337s
+__________________________________
+Scanned point: 848
+Average time:  1.1097e-05s
+Elapsed time:  0.00941s
+ETA 2scans:  0.08s
+Average scan time:  0.013369s
+__________________________________
+Scanned point: 759
+Average time:  1.0668e-05s
+Elapsed time:  0.0080968s
+ETA 2scans:  0.081s
+Average scan time:  0.013368s
+__________________________________
+Scanned point: 807
+Average time:  1.4386e-05s
+Elapsed time:  0.011609s
+ETA 2scans:  0.082s
+Average scan time:  0.013367s
+__________________________________
+Scanned point: 811
+Average time:  1.2366e-05s
+Elapsed time:  0.010029s
+ETA 2scans:  0.077s
+Average scan time:  0.013366s
+__________________________________
+Scanned point: 821
+Average time:  8.2875e-06s
+Elapsed time:  0.0068041s
+ETA 2scans:  0.081s
+Average scan time:  0.013365s
+__________________________________
+Scanned point: 786
+Average time:  7.5354e-06s
+Elapsed time:  0.0059228s
+ETA 2scans:  0.081s
+Average scan time:  0.013363s
+__________________________________
+Scanned point: 803
+Average time:  8.2218e-06s
+Elapsed time:  0.0066021s
+ETA 2scans:  0.079s
+Average scan time:  0.013361s
+__________________________________
+Scanned point: 774
+Average time:  4.8803e-06s
+Elapsed time:  0.0037773s
+ETA 2scans:  0.08s
+Average scan time:  0.013359s
+__________________________________
+Scanned point: 872
+Average time:  1.0589e-05s
+Elapsed time:  0.0092337s
+ETA 2scans:  0.083s
+Average scan time:  0.013358s
+__________________________________
+Scanned point: 822
+Average time:  6.6645e-06s
+Elapsed time:  0.0054782s
+ETA 2scans:  0.077s
+Average scan time:  0.013356s
+__________________________________
+Scanned point: 836
+Average time:  7.4067e-06s
+Elapsed time:  0.006192s
+ETA 2scans:  0.08s
+Average scan time:  0.013355s
+__________________________________
+Scanned point: 792
+Average time:  7.3629e-06s
+Elapsed time:  0.0058314s
+ETA 2scans:  0.079s
+Average scan time:  0.013353s
+__________________________________
+Scanned point: 814
+Average time:  1.2876e-05s
+Elapsed time:  0.010481s
+ETA 2scans:  0.079s
+Average scan time:  0.013352s
+__________________________________
+Scanned point: 784
+Average time:  1.0918e-05s
+Elapsed time:  0.0085596s
+ETA 2scans:  0.079s
+Average scan time:  0.013351s
+__________________________________
+Scanned point: 835
+Average time:  7.6145e-06s
+Elapsed time:  0.0063581s
+ETA 2scans:  0.08s
+Average scan time:  0.013349s
+__________________________________
+Scanned point: 773
+Average time:  8.0013e-06s
+Elapsed time:  0.006185s
+ETA 2scans:  0.079s
+Average scan time:  0.013348s
+__________________________________
+Scanned point: 757
+Average time:  8.6487e-06s
+Elapsed time:  0.006547s
+ETA 2scans:  0.081s
+Average scan time:  0.013346s
+__________________________________
+Scanned point: 735
+Average time:  8.8694e-06s
+Elapsed time:  0.006519s
+ETA 2scans:  0.08s
+Average scan time:  0.013345s
+__________________________________
+Scanned point: 740
+Average time:  9.9745e-06s
+Elapsed time:  0.0073812s
+ETA 2scans:  0.081s
+Average scan time:  0.013343s
+__________________________________
+Scanned point: 775
+Average time:  9.1105e-06s
+Elapsed time:  0.0070607s
+ETA 2scans:  0.079s
+Average scan time:  0.013342s
+__________________________________
+Scanned point: 761
+Average time:  1.1925e-05s
+Elapsed time:  0.0090746s
+ETA 2scans:  0.08s
+Average scan time:  0.013341s
+__________________________________
+Scanned point: 826
+Average time:  1.8438e-05s
+Elapsed time:  0.01523s
+ETA 2scans:  0.08s
+Average scan time:  0.013341s
+__________________________________
+Scanned point: 812
+Average time:  1.4109e-05s
+Elapsed time:  0.011456s
+ETA 2scans:  0.081s
+Average scan time:  0.013341s
+__________________________________
+Scanned point: 798
+Average time:  1.0101e-05s
+Elapsed time:  0.0080604s
+ETA 2scans:  0.079s
+Average scan time:  0.013339s
+__________________________________
+Scanned point: 721
+Average time:  4.4412e-06s
+Elapsed time:  0.0032021s
+ETA 2scans:  0.08s
+Average scan time:  0.013337s
+__________________________________
+Scanned point: 734
+Average time:  9.6468e-06s
+Elapsed time:  0.0070807s
+ETA 2scans:  0.082s
+Average scan time:  0.013336s
+__________________________________
+Scanned point: 789
+Average time:  1.0966e-05s
+Elapsed time:  0.0086524s
+ETA 2scans:  0.079s
+Average scan time:  0.013334s
+__________________________________
+Scanned point: 765
+Average time:  1.7571e-05s
+Elapsed time:  0.013442s
+ETA 2scans:  0.079s
+Average scan time:  0.013334s
+__________________________________
+Scanned point: 809
+Average time:  1.5462e-05s
+Elapsed time:  0.012509s
+ETA 2scans:  0.081s
+Average scan time:  0.013334s
+__________________________________
+Scanned point: 835
+Average time:  1.1271e-05s
+Elapsed time:  0.0094114s
+ETA 2scans:  0.08s
+Average scan time:  0.013333s
+__________________________________
+Scanned point: 813
+Average time:  1.2804e-05s
+Elapsed time:  0.01041s
+ETA 2scans:  0.078s
+Average scan time:  0.013333s
+__________________________________
+Scanned point: 789
+Average time:  7.696e-06s
+Elapsed time:  0.0060721s
+ETA 2scans:  0.079s
+Average scan time:  0.013331s
+__________________________________
+Scanned point: 834
+Average time:  6.8136e-06s
+Elapsed time:  0.0056826s
+ETA 2scans:  0.083s
+Average scan time:  0.013329s
+__________________________________
+Scanned point: 817
+Average time:  8.3532e-06s
+Elapsed time:  0.0068246s
+ETA 2scans:  0.08s
+Average scan time:  0.013328s
+__________________________________
+Scanned point: 796
+Average time:  5.9152e-06s
+Elapsed time:  0.0047085s
+ETA 2scans:  0.081s
+Average scan time:  0.013326s
+__________________________________
+Scanned point: 775
+Average time:  5.6306e-06s
+Elapsed time:  0.0043638s
+ETA 2scans:  0.078s
+Average scan time:  0.013324s
+__________________________________
+Scanned point: 819
+Average time:  6.4395e-06s
+Elapsed time:  0.0052739s
+ETA 2scans:  0.081s
+Average scan time:  0.013322s
+__________________________________
+Scanned point: 809
+Average time:  7.5161e-06s
+Elapsed time:  0.0060805s
+ETA 2scans:  0.081s
+Average scan time:  0.01332s
+__________________________________
+Scanned point: 865
+Average time:  1.1994e-05s
+Elapsed time:  0.010375s
+ETA 2scans:  0.078s
+Average scan time:  0.013319s
+__________________________________
+Scanned point: 863
+Average time:  1.5584e-05s
+Elapsed time:  0.013449s
+ETA 2scans:  0.079s
+Average scan time:  0.013319s
+__________________________________
+Scanned point: 916
+Average time:  1.0755e-05s
+Elapsed time:  0.0098513s
+ETA 2scans:  0.085s
+Average scan time:  0.013318s
+__________________________________
+Scanned point: 901
+Average time:  1.2349e-05s
+Elapsed time:  0.011126s
+ETA 2scans:  0.076s
+Average scan time:  0.013318s
+__________________________________
+Scanned point: 911
+Average time:  7.7008e-06s
+Elapsed time:  0.0070154s
+ETA 2scans:  0.082s
+Average scan time:  0.013316s
+__________________________________
+Scanned point: 956
+Average time:  9.7416e-06s
+Elapsed time:  0.009313s
+ETA 2scans:  0.082s
+Average scan time:  0.013316s
+__________________________________
+Scanned point: 945
+Average time:  9.3465e-06s
+Elapsed time:  0.0088325s
+ETA 2scans:  0.079s
+Average scan time:  0.013314s
+__________________________________
+Scanned point: 1076
+Average time:  1.2882e-05s
+Elapsed time:  0.013861s
+ETA 2scans:  0.085s
+Average scan time:  0.013315s
+__________________________________
+Scanned point: 1011
+Average time:  1.5405e-05s
+Elapsed time:  0.015575s
+ETA 2scans:  0.075s
+Average scan time:  0.013315s
+__________________________________
+Scanned point: 1150
+Average time:  1.8759e-05s
+Elapsed time:  0.021572s
+ETA 2scans:  0.085s
+Average scan time:  0.013317s
+__________________________________
+Scanned point: 1130
+Average time:  1.2532e-05s
+Elapsed time:  0.014161s
+ETA 2scans:  0.082s
+Average scan time:  0.013317s
+__________________________________
+Scanned point: 1156
+Average time:  5.6478e-06s
+Elapsed time:  0.0065288s
+ETA 2scans:  0.08s
+Average scan time:  0.013316s
+__________________________________
+Scanned point: 1221
+Average time:  7.7622e-06s
+Elapsed time:  0.0094777s
+ETA 2scans:  0.078s
+Average scan time:  0.013315s
+__________________________________
+Scanned point: 1121
+Average time:  6.408e-06s
+Elapsed time:  0.0071834s
+ETA 2scans:  0.08s
+Average scan time:  0.013313s
+__________________________________
+Scanned point: 1218
+Average time:  9.5784e-06s
+Elapsed time:  0.011667s
+ETA 2scans:  0.084s
+Average scan time:  0.013313s
+__________________________________
+Scanned point: 1161
+Average time:  9.0867e-06s
+Elapsed time:  0.01055s
+ETA 2scans:  0.077s
+Average scan time:  0.013312s
+__________________________________
+Scanned point: 1203
+Average time:  1.3186e-05s
+Elapsed time:  0.015862s
+ETA 2scans:  0.082s
+Average scan time:  0.013313s
+__________________________________
+Scanned point: 1184
+Average time:  1.6301e-05s
+Elapsed time:  0.0193s
+ETA 2scans:  0.076s
+Average scan time:  0.013314s
+__________________________________
+Scanned point: 1194
+Average time:  1.4178e-05s
+Elapsed time:  0.016928s
+ETA 2scans:  0.08s
+Average scan time:  0.013315s
+__________________________________
+Scanned point: 1200
+Average time:  1.5957e-05s
+Elapsed time:  0.019148s
+ETA 2scans:  0.08s
+Average scan time:  0.013317s
+__________________________________
+Scanned point: 1119
+Average time:  7.0469e-06s
+Elapsed time:  0.0078855s
+ETA 2scans:  0.081s
+Average scan time:  0.013315s
+__________________________________
+Scanned point: 1073
+Average time:  4.8564e-06s
+Elapsed time:  0.0052109s
+ETA 2scans:  0.08s
+Average scan time:  0.013313s
+__________________________________
+Scanned point: 1053
+Average time:  5.2273e-06s
+Elapsed time:  0.0055044s
+ETA 2scans:  0.08s
+Average scan time:  0.013312s
+__________________________________
+Scanned point: 1042
+Average time:  1.0448e-05s
+Elapsed time:  0.010887s
+ETA 2scans:  0.078s
+Average scan time:  0.013311s
+__________________________________
+Scanned point: 1009
+Average time:  7.5715e-06s
+Elapsed time:  0.0076396s
+ETA 2scans:  0.081s
+Average scan time:  0.01331s
+__________________________________
+Scanned point: 1049
+Average time:  7.3557e-06s
+Elapsed time:  0.0077161s
+ETA 2scans:  0.08s
+Average scan time:  0.013308s
+__________________________________
+Scanned point: 1040
+Average time:  6.7128e-06s
+Elapsed time:  0.0069814s
+ETA 2scans:  0.077s
+Average scan time:  0.013307s
+__________________________________
+Scanned point: 1015
+Average time:  1.0655e-05s
+Elapsed time:  0.010815s
+ETA 2scans:  0.083s
+Average scan time:  0.013306s
+__________________________________
+Scanned point: 942
+Average time:  8.002e-06s
+Elapsed time:  0.0075379s
+ETA 2scans:  0.078s
+Average scan time:  0.013305s
+__________________________________
+Scanned point: 940
+Average time:  1.1025e-05s
+Elapsed time:  0.010364s
+ETA 2scans:  0.077s
+Average scan time:  0.013304s
+__________________________________
+Scanned point: 920
+Average time:  6.1093e-06s
+Elapsed time:  0.0056205s
+ETA 2scans:  0.082s
+Average scan time:  0.013302s
+__________________________________
+Scanned point: 901
+Average time:  7.6024e-06s
+Elapsed time:  0.0068498s
+ETA 2scans:  0.08s
+Average scan time:  0.013301s
+__________________________________
+Scanned point: 899
+Average time:  6.3169e-06s
+Elapsed time:  0.0056788s
+ETA 2scans:  0.082s
+Average scan time:  0.013299s
+__________________________________
+Scanned point: 925
+Average time:  5.6733e-06s
+Elapsed time:  0.0052478s
+ETA 2scans:  0.079s
+Average scan time:  0.013297s
+__________________________________
+Scanned point: 874
+Average time:  8.6497e-06s
+Elapsed time:  0.0075598s
+ETA 2scans:  0.081s
+Average scan time:  0.013296s
+__________________________________
+Scanned point: 891
+Average time:  6.6364e-06s
+Elapsed time:  0.005913s
+ETA 2scans:  0.077s
+Average scan time:  0.013294s
+__________________________________
+Scanned point: 888
+Average time:  9.7883e-06s
+Elapsed time:  0.008692s
+ETA 2scans:  0.08s
+Average scan time:  0.013293s
+__________________________________
+Scanned point: 885
+Average time:  1.0894e-05s
+Elapsed time:  0.0096409s
+ETA 2scans:  0.082s
+Average scan time:  0.013292s
+__________________________________
+Scanned point: 910
+Average time:  1.1283e-05s
+Elapsed time:  0.010267s
+ETA 2scans:  0.081s
+Average scan time:  0.013292s
+__________________________________
+Scanned point: 919
+Average time:  1.7865e-05s
+Elapsed time:  0.016417s
+ETA 2scans:  0.076s
+Average scan time:  0.013292s
+__________________________________
+Scanned point: 888
+Average time:  6.2895e-06s
+Elapsed time:  0.0055851s
+ETA 2scans:  0.082s
+Average scan time:  0.013291s
+__________________________________
+Scanned point: 917
+Average time:  6.3918e-06s
+Elapsed time:  0.0058613s
+ETA 2scans:  0.079s
+Average scan time:  0.013289s
+__________________________________
+Scanned point: 842
+Average time:  4.9144e-06s
+Elapsed time:  0.004138s
+ETA 2scans:  0.08s
+Average scan time:  0.013287s
+__________________________________
+Scanned point: 821
+Average time:  9.1086e-06s
+Elapsed time:  0.0074782s
+ETA 2scans:  0.079s
+Average scan time:  0.013285s
+__________________________________
+Scanned point: 811
+Average time:  8.0262e-06s
+Elapsed time:  0.0065092s
+ETA 2scans:  0.077s
+Average scan time:  0.013284s
+__________________________________
+Scanned point: 797
+Average time:  9.9132e-06s
+Elapsed time:  0.0079008s
+ETA 2scans:  0.082s
+Average scan time:  0.013283s
+__________________________________
+Scanned point: 795
+Average time:  5.7941e-06s
+Elapsed time:  0.0046063s
+ETA 2scans:  0.082s
+Average scan time:  0.013281s
+__________________________________
+Scanned point: 785
+Average time:  7.0345e-06s
+Elapsed time:  0.0055221s
+ETA 2scans:  0.079s
+Average scan time:  0.013279s
+__________________________________
+Scanned point: 835
+Average time:  9.4358e-06s
+Elapsed time:  0.0078789s
+ETA 2scans:  0.08s
+Average scan time:  0.013278s
+__________________________________
+Scanned point: 768
+Average time:  1.0695e-05s
+Elapsed time:  0.0082139s
+ETA 2scans:  0.077s
+Average scan time:  0.013276s
+__________________________________
+Scanned point: 803
+Average time:  1.0254e-05s
+Elapsed time:  0.0082339s
+ETA 2scans:  0.08s
+Average scan time:  0.013275s
+__________________________________
+Scanned point: 768
+Average time:  4.4477e-06s
+Elapsed time:  0.0034158s
+ETA 2scans:  0.08s
+Average scan time:  0.013273s
+__________________________________
+Scanned point: 752
+Average time:  1.0575e-05s
+Elapsed time:  0.0079526s
+ETA 2scans:  0.078s
+Average scan time:  0.013272s
+__________________________________
+Scanned point: 757
+Average time:  6.8818e-06s
+Elapsed time:  0.0052095s
+ETA 2scans:  0.082s
+Average scan time:  0.01327s
+__________________________________
+Scanned point: 816
+Average time:  1.219e-05s
+Elapsed time:  0.009947s
+ETA 2scans:  0.08s
+Average scan time:  0.013269s
+__________________________________
+Scanned point: 788
+Average time:  1.0039e-05s
+Elapsed time:  0.0079111s
+ETA 2scans:  0.077s
+Average scan time:  0.013268s
+__________________________________
+Scanned point: 839
+Average time:  5.4319e-06s
+Elapsed time:  0.0045574s
+ETA 2scans:  0.083s
+Average scan time:  0.013266s
+__________________________________
+Scanned point: 827
+Average time:  3.6621e-06s
+Elapsed time:  0.0030286s
+ETA 2scans:  0.079s
+Average scan time:  0.013263s
+__________________________________
+Scanned point: 905
+Average time:  4.7682e-06s
+Elapsed time:  0.0043152s
+ETA 2scans:  0.08s
+Average scan time:  0.013261s
+__________________________________
+Scanned point: 937
+Average time:  1.1143e-05s
+Elapsed time:  0.010441s
+ETA 2scans:  0.085s
+Average scan time:  0.013261s
+__________________________________
+Scanned point: 935
+Average time:  1.0015e-05s
+Elapsed time:  0.0093638s
+ETA 2scans:  0.077s
+Average scan time:  0.01326s
+__________________________________
+Scanned point: 1013
+Average time:  2.1286e-05s
+Elapsed time:  0.021563s
+ETA 2scans:  0.082s
+Average scan time:  0.013262s
+__________________________________
+Scanned point: 980
+Average time:  3.8283e-06s
+Elapsed time:  0.0037517s
+ETA 2scans:  0.078s
+Average scan time:  0.01326s
+__________________________________
+Scanned point: 1019
+Average time:  4.8634e-06s
+Elapsed time:  0.0049558s
+ETA 2scans:  0.082s
+Average scan time:  0.013258s
+__________________________________
+Scanned point: 1070
+Average time:  9.8408e-06s
+Elapsed time:  0.01053s
+ETA 2scans:  0.08s
+Average scan time:  0.013257s
+__________________________________
+Scanned point: 1065
+Average time:  8.1418e-06s
+Elapsed time:  0.0086711s
+ETA 2scans:  0.083s
+Average scan time:  0.013256s
+__________________________________
+Scanned point: 1077
+Average time:  9.5265e-06s
+Elapsed time:  0.01026s
+ETA 2scans:  0.082s
+Average scan time:  0.013255s
+__________________________________
+Scanned point: 1143
+Average time:  1.6102e-05s
+Elapsed time:  0.018404s
+ETA 2scans:  0.079s
+Average scan time:  0.013256s
+__________________________________
+Scanned point: 1090
+Average time:  7.1077e-06s
+Elapsed time:  0.0077474s
+ETA 2scans:  0.079s
+Average scan time:  0.013255s
+__________________________________
+Scanned point: 1146
+Average time:  5.8619e-06s
+Elapsed time:  0.0067178s
+ETA 2scans:  0.08s
+Average scan time:  0.013254s
+__________________________________
+Scanned point: 1233
+Average time:  5.4472e-06s
+Elapsed time:  0.0067164s
+ETA 2scans:  0.085s
+Average scan time:  0.013252s
+__________________________________
+Scanned point: 1211
+Average time:  7.1025e-06s
+Elapsed time:  0.0086011s
+ETA 2scans:  0.081s
+Average scan time:  0.013251s
+__________________________________
+Scanned point: 1285
+Average time:  8.1474e-06s
+Elapsed time:  0.010469s
+ETA 2scans:  0.078s
+Average scan time:  0.01325s
+__________________________________
+Scanned point: 1232
+Average time:  7.162e-06s
+Elapsed time:  0.0088236s
+ETA 2scans:  0.079s
+Average scan time:  0.013249s
+__________________________________
+Scanned point: 1274
+Average time:  8.8322e-06s
+Elapsed time:  0.011252s
+ETA 2scans:  0.082s
+Average scan time:  0.013249s
+__________________________________
+Scanned point: 1269
+Average time:  6.9517e-06s
+Elapsed time:  0.0088217s
+ETA 2scans:  0.08s
+Average scan time:  0.013248s
+__________________________________
+Scanned point: 1276
+Average time:  4.8622e-06s
+Elapsed time:  0.0062041s
+ETA 2scans:  0.08s
+Average scan time:  0.013246s
+__________________________________
+Scanned point: 1305
+Average time:  3.2895e-06s
+Elapsed time:  0.0042928s
+ETA 2scans:  0.078s
+Average scan time:  0.013244s
+__________________________________
+Scanned point: 1304
+Average time:  6.5315e-06s
+Elapsed time:  0.0085171s
+ETA 2scans:  0.081s
+Average scan time:  0.013243s
+__________________________________
+Scanned point: 1303
+Average time:  6.954e-06s
+Elapsed time:  0.0090611s
+ETA 2scans:  0.08s
+Average scan time:  0.013242s
+__________________________________
+Scanned point: 1307
+Average time:  5.1784e-06s
+Elapsed time:  0.0067682s
+ETA 2scans:  0.083s
+Average scan time:  0.013241s
+__________________________________
+Scanned point: 1299
+Average time:  3.9429e-06s
+Elapsed time:  0.0051218s
+ETA 2scans:  0.08s
+Average scan time:  0.013239s
+__________________________________
+Scanned point: 1273
+Average time:  4.0355e-06s
+Elapsed time:  0.0051372s
+ETA 2scans:  0.076s
+Average scan time:  0.013237s
+__________________________________
+Scanned point: 1324
+Average time:  6.4434e-06s
+Elapsed time:  0.0085311s
+ETA 2scans:  0.083s
+Average scan time:  0.013236s
+__________________________________
+Scanned point: 1287
+Average time:  5.8921e-06s
+Elapsed time:  0.0075832s
+ETA 2scans:  0.078s
+Average scan time:  0.013235s
+__________________________________
+Scanned point: 1306
+Average time:  8.9523e-06s
+Elapsed time:  0.011692s
+ETA 2scans:  0.081s
+Average scan time:  0.013234s
+__________________________________
+Scanned point: 1349
+Average time:  8.3163e-06s
+Elapsed time:  0.011219s
+ETA 2scans:  0.082s
+Average scan time:  0.013234s
+__________________________________
+Scanned point: 1311
+Average time:  5.4387e-06s
+Elapsed time:  0.0071302s
+ETA 2scans:  0.08s
+Average scan time:  0.013232s
+__________________________________
+Scanned point: 1377
+Average time:  9.2161e-06s
+Elapsed time:  0.012691s
+ETA 2scans:  0.079s
+Average scan time:  0.013232s
+__________________________________
+Scanned point: 1305
+Average time:  2.4051e-06s
+Elapsed time:  0.0031387s
+ETA 2scans:  0.081s
+Average scan time:  0.01323s
+__________________________________
+Scanned point: 1351
+Average time:  3.6817e-06s
+Elapsed time:  0.0049739s
+ETA 2scans:  0.079s
+Average scan time:  0.013228s
+__________________________________
+Scanned point: 1342
+Average time:  1.5198e-06s
+Elapsed time:  0.0020396s
+ETA 2scans:  0.083s
+Average scan time:  0.013225s
+__________________________________
+Scanned point: 1330
+Average time:  2.8229e-06s
+Elapsed time:  0.0037545s
+ETA 2scans:  0.081s
+Average scan time:  0.013223s
+__________________________________
+Scanned point: 1330
+Average time:  3.7952e-06s
+Elapsed time:  0.0050477s
+ETA 2scans:  0.077s
+Average scan time:  0.013221s
+__________________________________
+Scanned point: 1393
+Average time:  8.1273e-06s
+Elapsed time:  0.011321s
+ETA 2scans:  0.079s
+Average scan time:  0.013221s
+__________________________________
+Scanned point: 1349
+Average time:  6.452e-06s
+Elapsed time:  0.0087037s
+ETA 2scans:  0.081s
+Average scan time:  0.01322s
+__________________________________
+Scanned point: 1438
+Average time:  1.1455e-05s
+Elapsed time:  0.016472s
+ETA 2scans:  0.084s
+Average scan time:  0.013221s
+__________________________________
+Scanned point: 1338
+Average time:  8.0792e-06s
+Elapsed time:  0.01081s
+ETA 2scans:  0.079s
+Average scan time:  0.01322s
+__________________________________
+Scanned point: 1399
+Average time:  6.2364e-06s
+Elapsed time:  0.0087247s
+ETA 2scans:  0.079s
+Average scan time:  0.013219s
+__________________________________
+Scanned point: 1363
+Average time:  3.0664e-06s
+Elapsed time:  0.0041795s
+ETA 2scans:  0.08s
+Average scan time:  0.013217s
+__________________________________
+Scanned point: 1386
+Average time:  8.0741e-06s
+Elapsed time:  0.011191s
+ETA 2scans:  0.081s
+Average scan time:  0.013217s
+__________________________________
+Scanned point: 1463
+Average time:  8.5649e-06s
+Elapsed time:  0.012531s
+ETA 2scans:  0.078s
+Average scan time:  0.013216s
+__________________________________
+Scanned point: 1427
+Average time:  6.4733e-06s
+Elapsed time:  0.0092374s
+ETA 2scans:  0.082s
+Average scan time:  0.013216s
+__________________________________
+Scanned point: 1353
+Average time:  6.6967e-06s
+Elapsed time:  0.0090606s
+ETA 2scans:  0.078s
+Average scan time:  0.013215s
+__________________________________
+Scanned point: 1384
+Average time:  7.2916e-06s
+Elapsed time:  0.010092s
+ETA 2scans:  0.076s
+Average scan time:  0.013214s
+__________________________________
+Scanned point: 1387
+Average time:  4.3493e-06s
+Elapsed time:  0.0060325s
+ETA 2scans:  0.081s
+Average scan time:  0.013212s
+__________________________________
+Scanned point: 1414
+Average time:  4.9716e-06s
+Elapsed time:  0.0070299s
+ETA 2scans:  0.081s
+Average scan time:  0.013211s
+__________________________________
+Scanned point: 1391
+Average time:  6.5074e-06s
+Elapsed time:  0.0090517s
+ETA 2scans:  0.08s
+Average scan time:  0.01321s
+__________________________________
+Scanned point: 1418
+Average time:  1.1765e-05s
+Elapsed time:  0.016683s
+ETA 2scans:  0.081s
+Average scan time:  0.013211s
+__________________________________
+Scanned point: 1382
+Average time:  1.2854e-05s
+Elapsed time:  0.017764s
+ETA 2scans:  0.077s
+Average scan time:  0.013212s
+__________________________________
+Scanned point: 1440
+Average time:  1.8279e-05s
+Elapsed time:  0.026322s
+ETA 2scans:  0.084s
+Average scan time:  0.013215s
+__________________________________
+Scanned point: 1508
+Average time:  1.974e-05s
+Elapsed time:  0.029768s
+ETA 2scans:  0.076s
+Average scan time:  0.013218s
+__________________________________
+Scanned point: 1550
+Average time:  2.2433e-05s
+Elapsed time:  0.034771s
+ETA 2scans:  0.081s
+Average scan time:  0.013223s
+__________________________________
+Scanned point: 1555
+Average time:  2.4086e-05s
+Elapsed time:  0.037453s
+ETA 2scans:  0.079s
+Average scan time:  0.013229s
+__________________________________
+Scanned point: 1491
+Average time:  2.4199e-05s
+Elapsed time:  0.03608s
+ETA 2scans:  0.076s
+Average scan time:  0.013234s
+__________________________________
+Scanned point: 1437
+Average time:  3.4293e-05s
+Elapsed time:  0.049279s
+ETA 2scans:  0.082s
+Average scan time:  0.013242s
+__________________________________
+Scanned point: 1449
+Average time:  3.4472e-05s
+Elapsed time:  0.04995s
+ETA 2scans:  0.077s
+Average scan time:  0.013251s
+__________________________________
+Scanned point: 1429
+Average time:  3.2089e-05s
+Elapsed time:  0.045856s
+ETA 2scans:  0.08s
+Average scan time:  0.013258s
+__________________________________
+Scanned point: 1478
+Average time:  3.946e-05s
+Elapsed time:  0.058321s
+ETA 2scans:  0.083s
+Average scan time:  0.013268s
+__________________________________
+Scanned point: 1414
+Average time:  3.2571e-05s
+Elapsed time:  0.046055s
+ETA 2scans:  0.077s
+Average scan time:  0.013276s
+__________________________________
+Scanned point: 1492
+Average time:  3.9255e-05s
+Elapsed time:  0.058568s
+ETA 2scans:  0.083s
+Average scan time:  0.013286s
+__________________________________
+Scanned point: 1387
+Average time:  3.5193e-05s
+Elapsed time:  0.048813s
+ETA 2scans:  0.075s
+Average scan time:  0.013294s
+__________________________________
+Scanned point: 1382
+Average time:  2.9291e-05s
+Elapsed time:  0.040481s
+ETA 2scans:  0.082s
+Average scan time:  0.013301s
+__________________________________
+Scanned point: 1343
+Average time:  3.4535e-05s
+Elapsed time:  0.046381s
+ETA 2scans:  0.078s
+Average scan time:  0.013308s
+__________________________________
+Scanned point: 1291
+Average time:  2.7344e-05s
+Elapsed time:  0.0353s
+ETA 2scans:  0.079s
+Average scan time:  0.013313s
+__________________________________
+Scanned point: 1271
+Average time:  2.5714e-05s
+Elapsed time:  0.032682s
+ETA 2scans:  0.079s
+Average scan time:  0.013317s
+__________________________________
+Scanned point: 1316
+Average time:  2.6671e-05s
+Elapsed time:  0.035099s
+ETA 2scans:  0.082s
+Average scan time:  0.013322s
+__________________________________
+Scanned point: 1313
+Average time:  2.5123e-05s
+Elapsed time:  0.032986s
+ETA 2scans:  0.079s
+Average scan time:  0.013327s
+__________________________________
+Scanned point: 1308
+Average time:  3.1956e-05s
+Elapsed time:  0.041799s
+ETA 2scans:  0.08s
+Average scan time:  0.013333s
+__________________________________
+Scanned point: 1311
+Average time:  2.5455e-05s
+Elapsed time:  0.033371s
+ETA 2scans:  0.081s
+Average scan time:  0.013338s
+__________________________________
+Scanned point: 1340
+Average time:  2.2923e-05s
+Elapsed time:  0.030717s
+ETA 2scans:  0.079s
+Average scan time:  0.013342s
+__________________________________
+Scanned point: 1275
+Average time:  2.3753e-05s
+Elapsed time:  0.030285s
+ETA 2scans:  0.08s
+Average scan time:  0.013346s
+__________________________________
+Scanned point: 1300
+Average time:  2.7899e-05s
+Elapsed time:  0.036269s
+ETA 2scans:  0.084s
+Average scan time:  0.013351s
+__________________________________
+Scanned point: 1250
+Average time:  2.7425e-05s
+Elapsed time:  0.034281s
+ETA 2scans:  0.077s
+Average scan time:  0.013356s
+__________________________________
+Scanned point: 1229
+Average time:  2.0393e-05s
+Elapsed time:  0.025063s
+ETA 2scans:  0.081s
+Average scan time:  0.013358s
+__________________________________
+Scanned point: 1195
+Average time:  1.4732e-05s
+Elapsed time:  0.017605s
+ETA 2scans:  0.08s
+Average scan time:  0.013359s
+__________________________________
+Scanned point: 1155
+Average time:  1.528e-05s
+Elapsed time:  0.017648s
+ETA 2scans:  0.075s
+Average scan time:  0.01336s
+__________________________________
+Scanned point: 1178
+Average time:  1.9312e-05s
+Elapsed time:  0.02275s
+ETA 2scans:  0.083s
+Average scan time:  0.013362s
+__________________________________
+Scanned point: 1121
+Average time:  1.5484e-05s
+Elapsed time:  0.017357s
+ETA 2scans:  0.078s
+Average scan time:  0.013363s
+__________________________________
+Scanned point: 1167
+Average time:  1.8744e-05s
+Elapsed time:  0.021875s
+ETA 2scans:  0.081s
+Average scan time:  0.013365s
+__________________________________
+Scanned point: 1105
+Average time:  1.6743e-05s
+Elapsed time:  0.018501s
+ETA 2scans:  0.077s
+Average scan time:  0.013366s
+__________________________________
+Scanned point: 1113
+Average time:  1.95e-05s
+Elapsed time:  0.021704s
+ETA 2scans:  0.081s
+Average scan time:  0.013368s
+__________________________________
+Scanned point: 1085
+Average time:  1.6948e-05s
+Elapsed time:  0.018388s
+ETA 2scans:  0.082s
+Average scan time:  0.013369s
+__________________________________
+Scanned point: 1114
+Average time:  1.706e-05s
+Elapsed time:  0.019005s
+ETA 2scans:  0.078s
+Average scan time:  0.013371s
+__________________________________
+Scanned point: 1064
+Average time:  1.7828e-05s
+Elapsed time:  0.018969s
+ETA 2scans:  0.081s
+Average scan time:  0.013372s
+__________________________________
+Scanned point: 1045
+Average time:  1.2553e-05s
+Elapsed time:  0.013118s
+ETA 2scans:  0.078s
+Average scan time:  0.013372s
+__________________________________
+Scanned point: 1077
+Average time:  1.4673e-05s
+Elapsed time:  0.015803s
+ETA 2scans:  0.081s
+Average scan time:  0.013372s
+__________________________________
+Scanned point: 1061
+Average time:  1.7157e-05s
+Elapsed time:  0.018203s
+ETA 2scans:  0.08s
+Average scan time:  0.013374s
+__________________________________
+Scanned point: 1082
+Average time:  1.2877e-05s
+Elapsed time:  0.013933s
+ETA 2scans:  0.08s
+Average scan time:  0.013374s
+__________________________________
+Scanned point: 1069
+Average time:  1.5333e-05s
+Elapsed time:  0.016391s
+ETA 2scans:  0.079s
+Average scan time:  0.013374s
+__________________________________
+Scanned point: 1108
+Average time:  1.712e-05s
+Elapsed time:  0.018969s
+ETA 2scans:  0.082s
+Average scan time:  0.013376s
+__________________________________
+Scanned point: 1072
+Average time:  1.1129e-05s
+Elapsed time:  0.011931s
+ETA 2scans:  0.078s
+Average scan time:  0.013375s
+__________________________________
+Scanned point: 1062
+Average time:  1.1777e-05s
+Elapsed time:  0.012507s
+ETA 2scans:  0.082s
+Average scan time:  0.013375s
+__________________________________
+Scanned point: 1039
+Average time:  9.3392e-06s
+Elapsed time:  0.0097034s
+ETA 2scans:  0.078s
+Average scan time:  0.013374s
+__________________________________
+Scanned point: 1030
+Average time:  9.4643e-06s
+Elapsed time:  0.0097482s
+ETA 2scans:  0.081s
+Average scan time:  0.013373s
+__________________________________
+Scanned point: 982
+Average time:  9.401e-06s
+Elapsed time:  0.0092318s
+ETA 2scans:  0.078s
+Average scan time:  0.013373s
+__________________________________
+Scanned point: 978
+Average time:  1.1443e-05s
+Elapsed time:  0.011191s
+ETA 2scans:  0.078s
+Average scan time:  0.013372s
+__________________________________
+Scanned point: 954
+Average time:  1.8468e-05s
+Elapsed time:  0.017618s
+ETA 2scans:  0.081s
+Average scan time:  0.013373s
+__________________________________
+Scanned point: 974
+Average time:  2.0054e-05s
+Elapsed time:  0.019533s
+ETA 2scans:  0.081s
+Average scan time:  0.013374s
+__________________________________
+Scanned point: 917
+Average time:  2.794e-05s
+Elapsed time:  0.025621s
+ETA 2scans:  0.08s
+Average scan time:  0.013377s
+__________________________________
+Scanned point: 961
+Average time:  2.6192e-05s
+Elapsed time:  0.025171s
+ETA 2scans:  0.079s
+Average scan time:  0.01338s
+__________________________________
+Scanned point: 934
+Average time:  2.7857e-05s
+Elapsed time:  0.026018s
+ETA 2scans:  0.079s
+Average scan time:  0.013383s
+__________________________________
+Scanned point: 1001
+Average time:  3.4075e-05s
+Elapsed time:  0.034109s
+ETA 2scans:  0.083s
+Average scan time:  0.013387s
+__________________________________
+Scanned point: 947
+Average time:  4.7888e-05s
+Elapsed time:  0.04535s
+ETA 2scans:  0.078s
+Average scan time:  0.013395s
+__________________________________
+Scanned point: 991
+Average time:  7.6139e-05s
+Elapsed time:  0.075454s
+ETA 2scans:  0.079s
+Average scan time:  0.013409s
+__________________________________
+Scanned point: 952
+Average time:  6.5926e-05s
+Elapsed time:  0.062761s
+ETA 2scans:  0.08s
+Average scan time:  0.01342s
+__________________________________
+Scanned point: 913
+Average time:  5.0039e-05s
+Elapsed time:  0.045686s
+ETA 2scans:  0.08s
+Average scan time:  0.013427s
+__________________________________
+Scanned point: 939
+Average time:  4.1981e-05s
+Elapsed time:  0.03942s
+ETA 2scans:  0.079s
+Average scan time:  0.013433s
+__________________________________
+Scanned point: 923
+Average time:  3.0559e-05s
+Elapsed time:  0.028206s
+ETA 2scans:  0.08s
+Average scan time:  0.013436s
+__________________________________
+Scanned point: 922
+Average time:  1.2583e-05s
+Elapsed time:  0.011601s
+ETA 2scans:  0.081s
+Average scan time:  0.013436s
+__________________________________
+Scanned point: 860
+Average time:  1.1548e-05s
+Elapsed time:  0.0099316s
+ETA 2scans:  0.08s
+Average scan time:  0.013435s
+__________________________________
+Scanned point: 866
+Average time:  1.493e-05s
+Elapsed time:  0.012929s
+ETA 2scans:  0.079s
+Average scan time:  0.013435s
+__________________________________
+Scanned point: 867
+Average time:  1.5015e-05s
+Elapsed time:  0.013018s
+ETA 2scans:  0.08s
+Average scan time:  0.013435s
+__________________________________
+Scanned point: 891
+Average time:  1.8991e-05s
+Elapsed time:  0.016921s
+ETA 2scans:  0.079s
+Average scan time:  0.013436s
+__________________________________
+Scanned point: 932
+Average time:  2.2203e-05s
+Elapsed time:  0.020694s
+ETA 2scans:  0.081s
+Average scan time:  0.013437s
+__________________________________
+Scanned point: 977
+Average time:  2.1296e-05s
+Elapsed time:  0.020806s
+ETA 2scans:  0.081s
+Average scan time:  0.013439s
+__________________________________
+Scanned point: 944
+Average time:  5.2033e-06s
+Elapsed time:  0.0049119s
+ETA 2scans:  0.079s
+Average scan time:  0.013437s
+__________________________________
+Scanned point: 948
+Average time:  7.847e-06s
+Elapsed time:  0.007439s
+ETA 2scans:  0.083s
+Average scan time:  0.013436s
+__________________________________
+Scanned point: 957
+Average time:  9.4536e-06s
+Elapsed time:  0.0090471s
+ETA 2scans:  0.079s
+Average scan time:  0.013435s
+__________________________________
+Scanned point: 966
+Average time:  1.1188e-05s
+Elapsed time:  0.010808s
+ETA 2scans:  0.08s
+Average scan time:  0.013434s
+__________________________________
+Scanned point: 975
+Average time:  1.19e-05s
+Elapsed time:  0.011603s
+ETA 2scans:  0.079s
+Average scan time:  0.013434s
+__________________________________
+Scanned point: 974
+Average time:  1.2906e-05s
+Elapsed time:  0.01257s
+ETA 2scans:  0.073s
+Average scan time:  0.013433s
+__________________________________
+Scanned point: 1011
+Average time:  1.5176e-05s
+Elapsed time:  0.015343s
+ETA 2scans:  0.089s
+Average scan time:  0.013434s
+__________________________________
+Scanned point: 993
+Average time:  1.6774e-05s
+Elapsed time:  0.016657s
+ETA 2scans:  0.079s
+Average scan time:  0.013435s
+__________________________________
+Scanned point: 1058
+Average time:  1.5568e-05s
+Elapsed time:  0.016471s
+ETA 2scans:  0.079s
+Average scan time:  0.013435s
+__________________________________
+Scanned point: 1062
+Average time:  1.6672e-05s
+Elapsed time:  0.017706s
+ETA 2scans:  0.08s
+Average scan time:  0.013436s
+__________________________________
+Scanned point: 1042
+Average time:  3.6811e-06s
+Elapsed time:  0.0038357s
+ETA 2scans:  0.082s
+Average scan time:  0.013434s
+__________________________________
+Scanned point: 1036
+Average time:  7.2048e-06s
+Elapsed time:  0.0074642s
+ETA 2scans:  0.079s
+Average scan time:  0.013433s
+__________________________________
+Scanned point: 1040
+Average time:  4.5651e-06s
+Elapsed time:  0.0047477s
+ETA 2scans:  0.08s
+Average scan time:  0.013431s
+__________________________________
+Scanned point: 998
+Average time:  4.7259e-06s
+Elapsed time:  0.0047164s
+ETA 2scans:  0.079s
+Average scan time:  0.013429s
+__________________________________
+Scanned point: 1019
+Average time:  4.5328e-06s
+Elapsed time:  0.0046189s
+ETA 2scans:  0.084s
+Average scan time:  0.013427s
+__________________________________
+Scanned point: 1005
+Average time:  4.8434e-06s
+Elapsed time:  0.0048676s
+ETA 2scans:  0.079s
+Average scan time:  0.013425s
+__________________________________
+Scanned point: 1031
+Average time:  5.5443e-06s
+Elapsed time:  0.0057162s
+ETA 2scans:  0.079s
+Average scan time:  0.013423s
+__________________________________
+Scanned point: 965
+Average time:  6.8792e-06s
+Elapsed time:  0.0066385s
+ETA 2scans:  0.08s
+Average scan time:  0.013422s
+__________________________________
+Scanned point: 1000
+Average time:  5.9443e-06s
+Elapsed time:  0.0059443s
+ETA 2scans:  0.081s
+Average scan time:  0.01342s
+__________________________________
+Scanned point: 1009
+Average time:  5.379e-06s
+Elapsed time:  0.0054274s
+ETA 2scans:  0.079s
+Average scan time:  0.013418s
+__________________________________
+Scanned point: 998
+Average time:  6.0927e-06s
+Elapsed time:  0.0060805s
+ETA 2scans:  0.078s
+Average scan time:  0.013417s
+__________________________________
+Scanned point: 1013
+Average time:  6.1996e-06s
+Elapsed time:  0.0062802s
+ETA 2scans:  0.081s
+Average scan time:  0.013415s
+__________________________________
+Scanned point: 1027
+Average time:  4.6751e-06s
+Elapsed time:  0.0048013s
+ETA 2scans:  0.082s
+Average scan time:  0.013413s
+__________________________________
+Scanned point: 1025
+Average time:  6.9726e-06s
+Elapsed time:  0.007147s
+ETA 2scans:  0.079s
+Average scan time:  0.013412s
+__________________________________
+Scanned point: 1010
+Average time:  5.1653e-06s
+Elapsed time:  0.005217s
+ETA 2scans:  0.079s
+Average scan time:  0.01341s
+__________________________________
+Scanned point: 1018
+Average time:  5.8529e-06s
+Elapsed time:  0.0059583s
+ETA 2scans:  0.078s
+Average scan time:  0.013408s
+__________________________________
+Scanned point: 973
+Average time:  9.7872e-06s
+Elapsed time:  0.0095229s
+ETA 2scans:  0.081s
+Average scan time:  0.013407s
+__________________________________
+Scanned point: 980
+Average time:  4.6394e-06s
+Elapsed time:  0.0045466s
+ETA 2scans:  0.08s
+Average scan time:  0.013405s
+__________________________________
+Scanned point: 1004
+Average time:  4.7037e-06s
+Elapsed time:  0.0047225s
+ETA 2scans:  0.081s
+Average scan time:  0.013403s
+__________________________________
+Scanned point: 982
+Average time:  8.2062e-06s
+Elapsed time:  0.0080585s
+ETA 2scans:  0.078s
+Average scan time:  0.013402s
+__________________________________
+Scanned point: 962
+Average time:  5.1321e-06s
+Elapsed time:  0.0049371s
+ETA 2scans:  0.08s
+Average scan time:  0.0134s
+__________________________________
+Scanned point: 979
+Average time:  4.8009e-06s
+Elapsed time:  0.0047001s
+ETA 2scans:  0.079s
+Average scan time:  0.013398s
+__________________________________
+Scanned point: 987
+Average time:  7.779e-06s
+Elapsed time:  0.0076779s
+ETA 2scans:  0.08s
+Average scan time:  0.013397s
+__________________________________
+Scanned point: 994
+Average time:  7.7951e-06s
+Elapsed time:  0.0077483s
+ETA 2scans:  0.08s
+Average scan time:  0.013396s
+__________________________________
+Scanned point: 981
+Average time:  4.7821e-06s
+Elapsed time:  0.0046912s
+ETA 2scans:  0.081s
+Average scan time:  0.013394s
+__________________________________
+Scanned point: 1000
+Average time:  5.3285e-06s
+Elapsed time:  0.0053285s
+ETA 2scans:  0.08s
+Average scan time:  0.013392s
+__________________________________
+Scanned point: 987
+Average time:  6.6129e-06s
+Elapsed time:  0.006527s
+ETA 2scans:  0.08s
+Average scan time:  0.01339s
+__________________________________
+Scanned point: 989
+Average time:  5.3953e-06s
+Elapsed time:  0.005336s
+ETA 2scans:  0.078s
+Average scan time:  0.013389s
+__________________________________
+Scanned point: 985
+Average time:  6.0632e-06s
+Elapsed time:  0.0059723s
+ETA 2scans:  0.08s
+Average scan time:  0.013387s
+__________________________________
+Scanned point: 990
+Average time:  7.737e-06s
+Elapsed time:  0.0076597s
+ETA 2scans:  0.081s
+Average scan time:  0.013386s
+__________________________________
+Scanned point: 969
+Average time:  7.5706e-06s
+Elapsed time:  0.0073359s
+ETA 2scans:  0.079s
+Average scan time:  0.013384s
+__________________________________
+Scanned point: 993
+Average time:  7.0343e-06s
+Elapsed time:  0.0069851s
+ETA 2scans:  0.08s
+Average scan time:  0.013383s
+__________________________________
+Scanned point: 989
+Average time:  4.8713e-06s
+Elapsed time:  0.0048177s
+ETA 2scans:  0.081s
+Average scan time:  0.013381s
+__________________________________
+Scanned point: 981
+Average time:  7.0662e-06s
+Elapsed time:  0.0069319s
+ETA 2scans:  0.078s
+Average scan time:  0.01338s
+__________________________________
+Scanned point: 973
+Average time:  7.2441e-06s
+Elapsed time:  0.0070485s
+ETA 2scans:  0.08s
+Average scan time:  0.013378s
+__________________________________
+Scanned point: 990
+Average time:  5.2278e-06s
+Elapsed time:  0.0051755s
+ETA 2scans:  0.081s
+Average scan time:  0.013376s
+__________________________________
+Scanned point: 982
+Average time:  4.801e-06s
+Elapsed time:  0.0047146s
+ETA 2scans:  0.081s
+Average scan time:  0.013374s
+__________________________________
+Scanned point: 993
+Average time:  8.1811e-06s
+Elapsed time:  0.0081238s
+ETA 2scans:  0.08s
+Average scan time:  0.013373s
+__________________________________
+Scanned point: 982
+Average time:  5.249e-06s
+Elapsed time:  0.0051545s
+ETA 2scans:  0.08s
+Average scan time:  0.013371s
+__________________________________
+Scanned point: 981
+Average time:  7.5465e-06s
+Elapsed time:  0.0074031s
+ETA 2scans:  0.079s
+Average scan time:  0.01337s
+__________________________________
+Scanned point: 984
+Average time:  7.2139e-06s
+Elapsed time:  0.0070984s
+ETA 2scans:  0.082s
+Average scan time:  0.013369s
+__________________________________
+Scanned point: 981
+Average time:  5.6714e-06s
+Elapsed time:  0.0055636s
+ETA 2scans:  0.079s
+Average scan time:  0.013367s
+__________________________________
+Scanned point: 981
+Average time:  4.7131e-06s
+Elapsed time:  0.0046236s
+ETA 2scans:  0.079s
+Average scan time:  0.013365s
+__________________________________
+Scanned point: 988
+Average time:  5.5429e-06s
+Elapsed time:  0.0054764s
+ETA 2scans:  0.08s
+Average scan time:  0.013363s
+__________________________________
+Scanned point: 978
+Average time:  4.3002e-06s
+Elapsed time:  0.0042056s
+ETA 2scans:  0.081s
+Average scan time:  0.013361s
+__________________________________
+Scanned point: 982
+Average time:  5.8894e-06s
+Elapsed time:  0.0057833s
+ETA 2scans:  0.078s
+Average scan time:  0.01336s
+__________________________________
+Scanned point: 977
+Average time:  7.0607e-06s
+Elapsed time:  0.0068983s
+ETA 2scans:  0.08s
+Average scan time:  0.013358s
+__________________________________
+Scanned point: 995
+Average time:  6.4576e-06s
+Elapsed time:  0.0064253s
+ETA 2scans:  0.081s
+Average scan time:  0.013357s
+__________________________________
+Scanned point: 975
+Average time:  4.49e-06s
+Elapsed time:  0.0043777s
+ETA 2scans:  0.08s
+Average scan time:  0.013355s
+__________________________________
+Scanned point: 983
+Average time:  5.0761e-06s
+Elapsed time:  0.0049898s
+ETA 2scans:  0.079s
+Average scan time:  0.013353s
+__________________________________
+Scanned point: 975
+Average time:  4.8288e-06s
+Elapsed time:  0.004708s
+ETA 2scans:  0.083s
+Average scan time:  0.013351s
+__________________________________
+Scanned point: 984
+Average time:  5.7167e-06s
+Elapsed time:  0.0056252s
+ETA 2scans:  0.078s
+Average scan time:  0.013349s
+__________________________________
+Scanned point: 974
+Average time:  5.9267e-06s
+Elapsed time:  0.0057726s
+ETA 2scans:  0.08s
+Average scan time:  0.013347s
+__________________________________
+Scanned point: 981
+Average time:  5.5135e-06s
+Elapsed time:  0.0054087s
+ETA 2scans:  0.081s
+Average scan time:  0.013346s
+__________________________________
+Scanned point: 973
+Average time:  5.9841e-06s
+Elapsed time:  0.0058225s
+ETA 2scans:  0.078s
+Average scan time:  0.013344s
+__________________________________
+Scanned point: 979
+Average time:  7.5171e-06s
+Elapsed time:  0.0073592s
+ETA 2scans:  0.081s
+Average scan time:  0.013343s
+__________________________________
+Scanned point: 991
+Average time:  8.3228e-06s
+Elapsed time:  0.0082479s
+ETA 2scans:  0.081s
+Average scan time:  0.013342s
+__________________________________
+Scanned point: 995
+Average time:  6.2311e-06s
+Elapsed time:  0.0061999s
+ETA 2scans:  0.08s
+Average scan time:  0.01334s
+__________________________________
+Scanned point: 980
+Average time:  5.3292e-06s
+Elapsed time:  0.0052226s
+ETA 2scans:  0.08s
+Average scan time:  0.013338s
+__________________________________
+Scanned point: 992
+Average time:  6.1197e-06s
+Elapsed time:  0.0060707s
+ETA 2scans:  0.079s
+Average scan time:  0.013337s
+__________________________________
+Scanned point: 971
+Average time:  4.5969e-06s
+Elapsed time:  0.0044636s
+ETA 2scans:  0.073s
+Average scan time:  0.013335s
+__________________________________
+Scanned point: 994
+Average time:  5.9318e-06s
+Elapsed time:  0.0058962s
+ETA 2scans:  0.087s
+Average scan time:  0.013333s
+__________________________________
+Scanned point: 971
+Average time:  9.7569e-06s
+Elapsed time:  0.0094739s
+ETA 2scans:  0.081s
+Average scan time:  0.013332s
+__________________________________
+Scanned point: 997
+Average time:  5.7324e-06s
+Elapsed time:  0.0057152s
+ETA 2scans:  0.079s
+Average scan time:  0.01333s
+__________________________________
+Scanned point: 988
+Average time:  5.2908e-06s
+Elapsed time:  0.0052273s
+ETA 2scans:  0.081s
+Average scan time:  0.013329s
+__________________________________
+Scanned point: 995
+Average time:  7.1346e-06s
+Elapsed time:  0.0070989s
+ETA 2scans:  0.078s
+Average scan time:  0.013327s
+__________________________________
+Scanned point: 978
+Average time:  5.2433e-06s
+Elapsed time:  0.0051279s
+ETA 2scans:  0.081s
+Average scan time:  0.013325s
+__________________________________
+Scanned point: 985
+Average time:  1.0483e-05s
+Elapsed time:  0.010325s
+ETA 2scans:  0.08s
+Average scan time:  0.013325s
+__________________________________
+Scanned point: 981
+Average time:  7.1446e-06s
+Elapsed time:  0.0070089s
+ETA 2scans:  0.08s
+Average scan time:  0.013323s
+__________________________________
+Scanned point: 987
+Average time:  5.8368e-06s
+Elapsed time:  0.005761s
+ETA 2scans:  0.079s
+Average scan time:  0.013322s
+__________________________________
+Scanned point: 978
+Average time:  5.7222e-06s
+Elapsed time:  0.0055963s
+ETA 2scans:  0.08s
+Average scan time:  0.01332s
+__________________________________
+Scanned point: 983
+Average time:  6.8738e-06s
+Elapsed time:  0.006757s
+ETA 2scans:  0.08s
+Average scan time:  0.013319s
+__________________________________
+Scanned point: 986
+Average time:  4.7597e-06s
+Elapsed time:  0.0046931s
+ETA 2scans:  0.082s
+Average scan time:  0.013317s
+__________________________________
+Scanned point: 984
+Average time:  5.564e-06s
+Elapsed time:  0.005475s
+ETA 2scans:  0.078s
+Average scan time:  0.013315s
+__________________________________
+Scanned point: 984
+Average time:  5.426e-06s
+Elapsed time:  0.0053392s
+ETA 2scans:  0.081s
+Average scan time:  0.013313s
+__________________________________
+Scanned point: 991
+Average time:  6.3e-06s
+Elapsed time:  0.0062433s
+ETA 2scans:  0.081s
+Average scan time:  0.013312s
+__________________________________
+Scanned point: 966
+Average time:  8.5237e-06s
+Elapsed time:  0.0082339s
+ETA 2scans:  0.078s
+Average scan time:  0.01331s
+__________________________________
+Scanned point: 990
+Average time:  9.6926e-06s
+Elapsed time:  0.0095957s
+ETA 2scans:  0.082s
+Average scan time:  0.01331s
+__________________________________
+Scanned point: 979
+Average time:  4.9382e-06s
+Elapsed time:  0.0048345s
+ETA 2scans:  0.079s
+Average scan time:  0.013308s
+__________________________________
+Scanned point: 985
+Average time:  6.1466e-06s
+Elapsed time:  0.0060544s
+ETA 2scans:  0.079s
+Average scan time:  0.013306s
+__________________________________
+Scanned point: 974
+Average time:  6.5316e-06s
+Elapsed time:  0.0063618s
+ETA 2scans:  0.083s
+Average scan time:  0.013305s
+__________________________________
+Scanned point: 992
+Average time:  6.0355e-06s
+Elapsed time:  0.0059872s
+ETA 2scans:  0.077s
+Average scan time:  0.013303s
+__________________________________
+Scanned point: 982
+Average time:  4.8209e-06s
+Elapsed time:  0.0047342s
+ETA 2scans:  0.081s
+Average scan time:  0.013301s
+__________________________________
+Scanned point: 993
+Average time:  7.2998e-06s
+Elapsed time:  0.0072487s
+ETA 2scans:  0.079s
+Average scan time:  0.0133s
+__________________________________
+Scanned point: 975
+Average time:  4.8053e-06s
+Elapsed time:  0.0046852s
+ETA 2scans:  0.081s
+Average scan time:  0.013298s
+__________________________________
+Scanned point: 986
+Average time:  6.5752e-06s
+Elapsed time:  0.0064831s
+ETA 2scans:  0.08s
+Average scan time:  0.013296s
+__________________________________
+Scanned point: 980
+Average time:  5.0774e-06s
+Elapsed time:  0.0049758s
+ETA 2scans:  0.08s
+Average scan time:  0.013295s
+__________________________________
+Scanned point: 986
+Average time:  6.2099e-06s
+Elapsed time:  0.006123s
+ETA 2scans:  0.08s
+Average scan time:  0.013293s
+__________________________________
+Scanned point: 980
+Average time:  4.8413e-06s
+Elapsed time:  0.0047444s
+ETA 2scans:  0.079s
+Average scan time:  0.013291s
+__________________________________
+Scanned point: 984
+Average time:  5.3246e-06s
+Elapsed time:  0.0052394s
+ETA 2scans:  0.08s
+Average scan time:  0.013289s
+__________________________________
+Scanned point: 974
+Average time:  5.4027e-06s
+Elapsed time:  0.0052623s
+ETA 2scans:  0.081s
+Average scan time:  0.013288s
+__________________________________
+Scanned point: 983
+Average time:  5.7752e-06s
+Elapsed time:  0.005677s
+ETA 2scans:  0.08s
+Average scan time:  0.013286s
+__________________________________
+Scanned point: 978
+Average time:  7.728e-06s
+Elapsed time:  0.007558s
+ETA 2scans:  0.08s
+Average scan time:  0.013285s
+__________________________________
+Scanned point: 987
+Average time:  5.1605e-06s
+Elapsed time:  0.0050934s
+ETA 2scans:  0.08s
+Average scan time:  0.013283s
+__________________________________
+Scanned point: 978
+Average time:  5.0181e-06s
+Elapsed time:  0.0049077s
+ETA 2scans:  0.079s
+Average scan time:  0.013281s
+__________________________________
+Scanned point: 990
+Average time:  5.2607e-06s
+Elapsed time:  0.0052081s
+ETA 2scans:  0.081s
+Average scan time:  0.013279s
+__________________________________
+Scanned point: 975
+Average time:  4.889e-06s
+Elapsed time:  0.0047668s
+ETA 2scans:  0.079s
+Average scan time:  0.013277s
+__________________________________
+Scanned point: 996
+Average time:  4.9438e-06s
+Elapsed time:  0.004924s
+ETA 2scans:  0.081s
+Average scan time:  0.013276s
+__________________________________
+Scanned point: 962
+Average time:  7.3764e-06s
+Elapsed time:  0.0070961s
+ETA 2scans:  0.081s
+Average scan time:  0.013274s
+__________________________________
+Scanned point: 992
+Average time:  5.7905e-06s
+Elapsed time:  0.0057442s
+ETA 2scans:  0.08s
+Average scan time:  0.013272s
+__________________________________
+Scanned point: 971
+Average time:  4.9697e-06s
+Elapsed time:  0.0048256s
+ETA 2scans:  0.079s
+Average scan time:  0.013271s
+__________________________________
+Scanned point: 984
+Average time:  5.9092e-06s
+Elapsed time:  0.0058146s
+ETA 2scans:  0.08s
+Average scan time:  0.013269s
+__________________________________
+Scanned point: 977
+Average time:  6.8616e-06s
+Elapsed time:  0.0067038s
+ETA 2scans:  0.08s
+Average scan time:  0.013268s
+__________________________________
+Scanned point: 985
+Average time:  6.4663e-06s
+Elapsed time:  0.0063693s
+ETA 2scans:  0.078s
+Average scan time:  0.013266s
+__________________________________
+Scanned point: 969
+Average time:  5.3045e-06s
+Elapsed time:  0.00514s
+ETA 2scans:  0.081s
+Average scan time:  0.013264s
+__________________________________
+Scanned point: 985
+Average time:  5.6517e-06s
+Elapsed time:  0.0055669s
+ETA 2scans:  0.08s
+Average scan time:  0.013263s
+__________________________________
+Scanned point: 972
+Average time:  5.6898e-06s
+Elapsed time:  0.0055305s
+ETA 2scans:  0.081s
+Average scan time:  0.013261s
+__________________________________
+Scanned point: 990
+Average time:  8.7803e-06s
+Elapsed time:  0.0086925s
+ETA 2scans:  0.081s
+Average scan time:  0.01326s
+__________________________________
+Scanned point: 980
+Average time:  6.4688e-06s
+Elapsed time:  0.0063394s
+ETA 2scans:  0.079s
+Average scan time:  0.013258s
+__________________________________
+Scanned point: 984
+Average time:  1.1105e-05s
+Elapsed time:  0.010928s
+ETA 2scans:  0.08s
+Average scan time:  0.013258s
+__________________________________
+Scanned point: 972
+Average time:  7.1253e-06s
+Elapsed time:  0.0069258s
+ETA 2scans:  0.08s
+Average scan time:  0.013256s
+__________________________________
+Scanned point: 977
+Average time:  6.5856e-06s
+Elapsed time:  0.0064341s
+ETA 2scans:  0.081s
+Average scan time:  0.013255s
+__________________________________
+Scanned point: 966
+Average time:  5.3876e-06s
+Elapsed time:  0.0052044s
+ETA 2scans:  0.078s
+Average scan time:  0.013253s
+__________________________________
+Scanned point: 989
+Average time:  7.8241e-06s
+Elapsed time:  0.007738s
+ETA 2scans:  0.08s
+Average scan time:  0.013252s
+__________________________________
+Scanned point: 971
+Average time:  5.9306e-06s
+Elapsed time:  0.0057586s
+ETA 2scans:  0.08s
+Average scan time:  0.01325s
+__________________________________
+Scanned point: 986
+Average time:  5.9426e-06s
+Elapsed time:  0.0058594s
+ETA 2scans:  0.08s
+Average scan time:  0.013249s
+__________________________________
+Scanned point: 972
+Average time:  4.9896e-06s
+Elapsed time:  0.0048499s
+ETA 2scans:  0.081s
+Average scan time:  0.013247s
+__________________________________
+Scanned point: 980
+Average time:  5.4382e-06s
+Elapsed time:  0.0053294s
+ETA 2scans:  0.08s
+Average scan time:  0.013245s
+__________________________________
+Scanned point: 979
+Average time:  8.7903e-06s
+Elapsed time:  0.0086057s
+ETA 2scans:  0.08s
+Average scan time:  0.013244s
+__________________________________
+Scanned point: 986
+Average time:  5.9757e-06s
+Elapsed time:  0.005892s
+ETA 2scans:  0.08s
+Average scan time:  0.013243s
+__________________________________
+Scanned point: 978
+Average time:  1.0459e-05s
+Elapsed time:  0.010229s
+ETA 2scans:  0.08s
+Average scan time:  0.013242s
+__________________________________
+Scanned point: 987
+Average time:  9.1327e-06s
+Elapsed time:  0.0090139s
+ETA 2scans:  0.08s
+Average scan time:  0.013241s
+__________________________________
+Scanned point: 974
+Average time:  9.1755e-06s
+Elapsed time:  0.008937s
+ETA 2scans:  0.078s
+Average scan time:  0.01324s
+__________________________________
+Scanned point: 977
+Average time:  5.1679e-06s
+Elapsed time:  0.0050491s
+ETA 2scans:  0.08s
+Average scan time:  0.013238s
+__________________________________
+Scanned point: 978
+Average time:  5.3534e-06s
+Elapsed time:  0.0052357s
+ETA 2scans:  0.082s
+Average scan time:  0.013236s
+__________________________________
+Scanned point: 977
+Average time:  5.41e-06s
+Elapsed time:  0.0052856s
+ETA 2scans:  0.079s
+Average scan time:  0.013235s
+__________________________________
+Scanned point: 966
+Average time:  4.782e-06s
+Elapsed time:  0.0046194s
+ETA 2scans:  0.08s
+Average scan time:  0.013233s
+__________________________________
+Scanned point: 983
+Average time:  5.6048e-06s
+Elapsed time:  0.0055095s
+ETA 2scans:  0.078s
+Average scan time:  0.013231s
+__________________________________
+Scanned point: 974
+Average time:  4.9338e-06s
+Elapsed time:  0.0048055s
+ETA 2scans:  0.082s
+Average scan time:  0.013229s
+__________________________________
+Scanned point: 978
+Average time:  6.7749e-06s
+Elapsed time:  0.0066259s
+ETA 2scans:  0.08s
+Average scan time:  0.013228s
+__________________________________
+Scanned point: 968
+Average time:  9.2979e-06s
+Elapsed time:  0.0090004s
+ETA 2scans:  0.082s
+Average scan time:  0.013227s
+__________________________________
+Scanned point: 986
+Average time:  9.3738e-06s
+Elapsed time:  0.0092425s
+ETA 2scans:  0.079s
+Average scan time:  0.013226s
+__________________________________
+Scanned point: 972
+Average time:  4.9795e-06s
+Elapsed time:  0.0048401s
+ETA 2scans:  0.079s
+Average scan time:  0.013224s
+__________________________________
+Scanned point: 984
+Average time:  7.6576e-06s
+Elapsed time:  0.0075351s
+ETA 2scans:  0.081s
+Average scan time:  0.013223s
+__________________________________
+Scanned point: 968
+Average time:  7.0637e-06s
+Elapsed time:  0.0068377s
+ETA 2scans:  0.081s
+Average scan time:  0.013222s
+__________________________________
+Scanned point: 981
+Average time:  5.8564e-06s
+Elapsed time:  0.0057451s
+ETA 2scans:  0.077s
+Average scan time:  0.01322s
+__________________________________
+Scanned point: 974
+Average time:  5.1585e-06s
+Elapsed time:  0.0050243s
+ETA 2scans:  0.082s
+Average scan time:  0.013218s
+__________________________________
+Scanned point: 982
+Average time:  5.3136e-06s
+Elapsed time:  0.0052179s
+ETA 2scans:  0.08s
+Average scan time:  0.013217s
+__________________________________
+Scanned point: 969
+Average time:  4.6926e-06s
+Elapsed time:  0.0045471s
+ETA 2scans:  0.079s
+Average scan time:  0.013215s
+__________________________________
+Scanned point: 976
+Average time:  5.2612e-06s
+Elapsed time:  0.0051349s
+ETA 2scans:  0.08s
+Average scan time:  0.013213s
+__________________________________
+Scanned point: 969
+Average time:  7.4979e-06s
+Elapsed time:  0.0072655s
+ETA 2scans:  0.081s
+Average scan time:  0.013212s
+__________________________________
+Scanned point: 976
+Average time:  4.9165e-06s
+Elapsed time:  0.0047985s
+ETA 2scans:  0.079s
+Average scan time:  0.01321s
+__________________________________
+Scanned point: 976
+Average time:  5.1149e-06s
+Elapsed time:  0.0049921s
+ETA 2scans:  0.081s
+Average scan time:  0.013208s
+__________________________________
+Scanned point: 990
+Average time:  5.5741e-06s
+Elapsed time:  0.0055184s
+ETA 2scans:  0.079s
+Average scan time:  0.013206s
+__________________________________
+Scanned point: 973
+Average time:  6.8443e-06s
+Elapsed time:  0.0066595s
+ETA 2scans:  0.08s
+Average scan time:  0.013205s
+__________________________________
+Scanned point: 981
+Average time:  5.9434e-06s
+Elapsed time:  0.0058305s
+ETA 2scans:  0.08s
+Average scan time:  0.013203s
+__________________________________
+Scanned point: 970
+Average time:  5.7251e-06s
+Elapsed time:  0.0055534s
+ETA 2scans:  0.08s
+Average scan time:  0.013202s
+__________________________________
+Scanned point: 979
+Average time:  7.1845e-06s
+Elapsed time:  0.0070336s
+ETA 2scans:  0.08s
+Average scan time:  0.0132s
+__________________________________
+Scanned point: 970
+Average time:  6.12e-06s
+Elapsed time:  0.0059364s
+ETA 2scans:  0.08s
+Average scan time:  0.013199s
+__________________________________
+Scanned point: 978
+Average time:  6.3747e-06s
+Elapsed time:  0.0062345s
+ETA 2scans:  0.082s
+Average scan time:  0.013197s
+__________________________________
+Scanned point: 974
+Average time:  5.26e-06s
+Elapsed time:  0.0051232s
+ETA 2scans:  0.078s
+Average scan time:  0.013195s
+__________________________________
+Scanned point: 979
+Average time:  7.7992e-06s
+Elapsed time:  0.0076354s
+ETA 2scans:  0.079s
+Average scan time:  0.013194s
+__________________________________
+Scanned point: 967
+Average time:  7.1675e-06s
+Elapsed time:  0.006931s
+ETA 2scans:  0.082s
+Average scan time:  0.013193s
+__________________________________
+Scanned point: 988
+Average time:  6.245e-06s
+Elapsed time:  0.0061701s
+ETA 2scans:  0.08s
+Average scan time:  0.013191s
+__________________________________
+Scanned point: 974
+Average time:  4.805e-06s
+Elapsed time:  0.00468s
+ETA 2scans:  0.079s
+Average scan time:  0.013189s
+__________________________________
+Scanned point: 972
+Average time:  5.3807e-06s
+Elapsed time:  0.0052301s
+ETA 2scans:  0.081s
+Average scan time:  0.013188s
+__________________________________
+Scanned point: 971
+Average time:  5.6813e-06s
+Elapsed time:  0.0055165s
+ETA 2scans:  0.079s
+Average scan time:  0.013186s
+__________________________________
+Scanned point: 987
+Average time:  9.2546e-06s
+Elapsed time:  0.0091343s
+ETA 2scans:  0.081s
+Average scan time:  0.013185s
+__________________________________
+Scanned point: 972
+Average time:  5.9672e-06s
+Elapsed time:  0.0058001s
+ETA 2scans:  0.078s
+Average scan time:  0.013184s
+__________________________________
+Scanned point: 978
+Average time:  9.0789e-06s
+Elapsed time:  0.0088791s
+ETA 2scans:  0.081s
+Average scan time:  0.013183s
+__________________________________
+Scanned point: 967
+Average time:  5.1003e-06s
+Elapsed time:  0.004932s
+ETA 2scans:  0.079s
+Average scan time:  0.013181s
+__________________________________
+Scanned point: 975
+Average time:  1.2542e-05s
+Elapsed time:  0.012228s
+ETA 2scans:  0.08s
+Average scan time:  0.013181s
+__________________________________
+Scanned point: 972
+Average time:  5.5842e-06s
+Elapsed time:  0.0054279s
+ETA 2scans:  0.082s
+Average scan time:  0.013179s
+__________________________________
+Scanned point: 980
+Average time:  6.5321e-06s
+Elapsed time:  0.0064015s
+ETA 2scans:  0.079s
+Average scan time:  0.013178s
+__________________________________
+Scanned point: 970
+Average time:  6.7178e-06s
+Elapsed time:  0.0065162s
+ETA 2scans:  0.08s
+Average scan time:  0.013176s
+__________________________________
+Scanned point: 967
+Average time:  5.7356e-06s
+Elapsed time:  0.0055464s
+ETA 2scans:  0.079s
+Average scan time:  0.013174s
+__________________________________
+Scanned point: 976
+Average time:  5.754e-06s
+Elapsed time:  0.0056159s
+ETA 2scans:  0.081s
+Average scan time:  0.013173s
+__________________________________
+Scanned point: 969
+Average time:  7.1744e-06s
+Elapsed time:  0.006952s
+ETA 2scans:  0.08s
+Average scan time:  0.013171s
+__________________________________
+Scanned point: 973
+Average time:  5.6739e-06s
+Elapsed time:  0.0055207s
+ETA 2scans:  0.08s
+Average scan time:  0.01317s
+__________________________________
+Scanned point: 975
+Average time:  6.0828e-06s
+Elapsed time:  0.0059308s
+ETA 2scans:  0.08s
+Average scan time:  0.013168s
+__________________________________
+Scanned point: 970
+Average time:  5.4216e-06s
+Elapsed time:  0.005259s
+ETA 2scans:  0.08s
+Average scan time:  0.013167s
+__________________________________
+Scanned point: 979
+Average time:  9.9926e-06s
+Elapsed time:  0.0097828s
+ETA 2scans:  0.079s
+Average scan time:  0.013166s
+__________________________________
+Scanned point: 975
+Average time:  6.0881e-06s
+Elapsed time:  0.0059359s
+ETA 2scans:  0.081s
+Average scan time:  0.013164s
+__________________________________
+Scanned point: 984
+Average time:  9.6455e-06s
+Elapsed time:  0.0094912s
+ETA 2scans:  0.079s
+Average scan time:  0.013163s
+__________________________________
+Scanned point: 967
+Average time:  5.1582e-06s
+Elapsed time:  0.0049879s
+ETA 2scans:  0.081s
+Average scan time:  0.013162s
+__________________________________
+Scanned point: 977
+Average time:  5.7423e-06s
+Elapsed time:  0.0056103s
+ETA 2scans:  0.081s
+Average scan time:  0.01316s
+__________________________________
+Scanned point: 971
+Average time:  6.8929e-06s
+Elapsed time:  0.006693s
+ETA 2scans:  0.079s
+Average scan time:  0.013159s
+__________________________________
+Scanned point: 991
+Average time:  6.2021e-06s
+Elapsed time:  0.0061463s
+ETA 2scans:  0.079s
+Average scan time:  0.013157s
+__________________________________
+Scanned point: 970
+Average time:  7.4565e-06s
+Elapsed time:  0.0072328s
+ETA 2scans:  0.082s
+Average scan time:  0.013156s
+__________________________________
+Scanned point: 979
+Average time:  5.9584e-06s
+Elapsed time:  0.0058333s
+ETA 2scans:  0.08s
+Average scan time:  0.013154s
+__________________________________
+Scanned point: 968
+Average time:  5.015e-06s
+Elapsed time:  0.0048545s
+ETA 2scans:  0.079s
+Average scan time:  0.013152s
+__________________________________
+Scanned point: 984
+Average time:  5.565e-06s
+Elapsed time:  0.0054759s
+ETA 2scans:  0.079s
+Average scan time:  0.013151s
+__________________________________
+Scanned point: 978
+Average time:  5.2747e-06s
+Elapsed time:  0.0051587s
+ETA 2scans:  0.081s
+Average scan time:  0.013149s
+__________________________________
+Scanned point: 981
+Average time:  8.8476e-06s
+Elapsed time:  0.0086795s
+ETA 2scans:  0.079s
+Average scan time:  0.013148s
+__________________________________
+Scanned point: 974
+Average time:  7.4503e-06s
+Elapsed time:  0.0072566s
+ETA 2scans:  0.081s
+Average scan time:  0.013147s
+__________________________________
+Scanned point: 981
+Average time:  6.1422e-06s
+Elapsed time:  0.0060255s
+ETA 2scans:  0.081s
+Average scan time:  0.013145s
+__________________________________
+Scanned point: 973
+Average time:  8.775e-06s
+Elapsed time:  0.0085381s
+ETA 2scans:  0.079s
+Average scan time:  0.013144s
+__________________________________
+Scanned point: 985
+Average time:  5.9292e-06s
+Elapsed time:  0.0058403s
+ETA 2scans:  0.081s
+Average scan time:  0.013143s
+__________________________________
+Scanned point: 976
+Average time:  4.5748e-06s
+Elapsed time:  0.004465s
+ETA 2scans:  0.079s
+Average scan time:  0.013141s
+__________________________________
+Scanned point: 977
+Average time:  5.3532e-06s
+Elapsed time:  0.0052301s
+ETA 2scans:  0.08s
+Average scan time:  0.013139s
+__________________________________
+Scanned point: 977
+Average time:  5.0762e-06s
+Elapsed time:  0.0049595s
+ETA 2scans:  0.079s
+Average scan time:  0.013137s
+__________________________________
+Scanned point: 986
+Average time:  5.5428e-06s
+Elapsed time:  0.0054652s
+ETA 2scans:  0.08s
+Average scan time:  0.013136s
+__________________________________
+Scanned point: 967
+Average time:  5.8384e-06s
+Elapsed time:  0.0056457s
+ETA 2scans:  0.081s
+Average scan time:  0.013134s
+__________________________________
+Scanned point: 990
+Average time:  7.3723e-06s
+Elapsed time:  0.0072986s
+ETA 2scans:  0.079s
+Average scan time:  0.013133s
+__________________________________
+Scanned point: 961
+Average time:  5.568e-06s
+Elapsed time:  0.0053509s
+ETA 2scans:  0.081s
+Average scan time:  0.013131s
+__________________________________
+Scanned point: 983
+Average time:  5.6783e-06s
+Elapsed time:  0.0055818s
+ETA 2scans:  0.079s
+Average scan time:  0.01313s
+__________________________________
+Scanned point: 971
+Average time:  7.3465e-06s
+Elapsed time:  0.0071334s
+ETA 2scans:  0.08s
+Average scan time:  0.013128s
+__________________________________
+Scanned point: 997
+Average time:  5.7507e-06s
+Elapsed time:  0.0057334s
+ETA 2scans:  0.081s
+Average scan time:  0.013127s
+__________________________________
+Scanned point: 977
+Average time:  5.2185e-06s
+Elapsed time:  0.0050985s
+ETA 2scans:  0.079s
+Average scan time:  0.013125s
+__________________________________
+Scanned point: 993
+Average time:  1.047e-05s
+Elapsed time:  0.010396s
+ETA 2scans:  0.08s
+Average scan time:  0.013124s
+__________________________________
+Scanned point: 985
+Average time:  6.2844e-06s
+Elapsed time:  0.0061901s
+ETA 2scans:  0.081s
+Average scan time:  0.013123s
+__________________________________
+Scanned point: 979
+Average time:  5.3456e-06s
+Elapsed time:  0.0052333s
+ETA 2scans:  0.079s
+Average scan time:  0.013121s
+__________________________________
+Scanned point: 978
+Average time:  7.5858e-06s
+Elapsed time:  0.0074189s
+ETA 2scans:  0.08s
+Average scan time:  0.01312s
+__________________________________
+Scanned point: 992
+Average time:  5.8408e-06s
+Elapsed time:  0.0057941s
+ETA 2scans:  0.081s
+Average scan time:  0.013118s
+__________________________________
+Scanned point: 978
+Average time:  9.2487e-06s
+Elapsed time:  0.0090452s
+ETA 2scans:  0.08s
+Average scan time:  0.013118s
+__________________________________
+Scanned point: 988
+Average time:  9.3742e-06s
+Elapsed time:  0.0092617s
+ETA 2scans:  0.08s
+Average scan time:  0.013117s
+__________________________________
+Scanned point: 970
+Average time:  6.0901e-06s
+Elapsed time:  0.0059074s
+ETA 2scans:  0.079s
+Average scan time:  0.013115s
+__________________________________
+Scanned point: 984
+Average time:  6.049e-06s
+Elapsed time:  0.0059522s
+ETA 2scans:  0.079s
+Average scan time:  0.013114s
+__________________________________
+Scanned point: 978
+Average time:  8.5413e-06s
+Elapsed time:  0.0083534s
+ETA 2scans:  0.081s
+Average scan time:  0.013113s
+__________________________________
+Scanned point: 980
+Average time:  6.7373e-06s
+Elapsed time:  0.0066025s
+ETA 2scans:  0.08s
+Average scan time:  0.013111s
+__________________________________
+Scanned point: 970
+Average time:  5.954e-06s
+Elapsed time:  0.0057754s
+ETA 2scans:  0.08s
+Average scan time:  0.01311s
+__________________________________
+Scanned point: 988
+Average time:  1.2804e-05s
+Elapsed time:  0.01265s
+ETA 2scans:  0.08s
+Average scan time:  0.01311s
+__________________________________
+Scanned point: 975
+Average time:  9.4843e-06s
+Elapsed time:  0.0092472s
+ETA 2scans:  0.082s
+Average scan time:  0.013109s
+__________________________________
+Scanned point: 988
+Average time:  1.0403e-05s
+Elapsed time:  0.010278s
+ETA 2scans:  0.079s
+Average scan time:  0.013108s
+__________________________________
+Scanned point: 981
+Average time:  5.8835e-06s
+Elapsed time:  0.0057717s
+ETA 2scans:  0.08s
+Average scan time:  0.013107s
+__________________________________
+Scanned point: 992
+Average time:  5.9758e-06s
+Elapsed time:  0.005928s
+ETA 2scans:  0.078s
+Average scan time:  0.013105s
+__________________________________
+Scanned point: 972
+Average time:  5.9063e-06s
+Elapsed time:  0.0057409s
+ETA 2scans:  0.081s
+Average scan time:  0.013103s
+__________________________________
+>> 

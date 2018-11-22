@@ -1,0 +1,56 @@
+Parameter 	Beschreibung 	Wert
+		
+Fahrzeugparameter: 		
+l 	[m] Radstand 	1,54
+l_v 	[m] Abstand Schwerpunkt zu Vorderachse 	0,752
+l_h 	[m] Abstand Schwerpunkt zu Hinterachse 	0,752
+b_v 	[m] Spurweite Vorderachse 	1,16
+b_h 	[m] Spurweite Hinterachse 	1,16
+h1 	[m] statische Fahrzeugschwerpunktshöhe 	0,262
+mges 	[kg] Gesamtmasse (mit Fahrer = 70 kg) 	250
+m2 	[kg] Radmasse (ungefederte Masse) 	50
+I1_xx 	[kg * m * m] Fahrzeugträgheit x-Achse 	45
+I1_yy 	[kg * m * m] Fahrzeugträgheit y-Achse 	85
+I1_zz 	[kg * m * m] Fahrzeugträgheit z-Achse 	95
+I2_xx 	[kg * m * m] Radträgheit x-Achse 	
+I2_yy 	[kg * m * m] Radträgheit y-Achse (hier nur Reifen+Felge+Motorwelle) 	0,21
+I2_zz 	[kg * m * m] Radträgheit z-Achse 	
+		
+Fahrwerksparameter 	BENÖTIGEN ÜBERARBEITUNG 	
+		
+h_RZ_v 	[m] Höhe des Rollzentrums vorne 	0,01
+h_RZ_h 	[m] Höhe des Rollzentrums hinten 	0,04
+h_IC_FV_v 	[m] Höhe Instant Center Front View vorne 	0,027
+h_IC_FV_h 	[m] Höhe Instant Center Front View hinten 	0,138
+l_IC_FV_v 	[m] Länge zum IC FV vorne 	1,44
+l_IC_FV_h 	[m] Länge zum IC FV hinten 	2,0
+h_IC_SV_v 	[m] Höhe Instant Center Side View vorne 	0,141
+h_IC_SV_h 	[m] Höhe Instant Center Side View hinten 	0,139
+l_IC_SV_v 	[m] Länge zum IC SV vorne 	1,273
+l_IC_SV_h 	[m] Länge zum IC SV hinten 	1,252
+h_NP 	[m] Höhe Nickpol 	0,124
+x_NP 	[m] x-Position Nickpol 	0,601
+rocker_v_Heave 	Rockerumlenkübersetzung vorn für Heave Motion (Motion Ratio = Radweg/Federweg) 	1
+rocker_h_Heave 	Rockerumlenkübersetzung hinten für Heave Motion (Motion Ratio = Radweg/Federweg) 	1
+rocker_v_Roll 	Rockerumlenkübersetzung vorn für Roll Motion (Motion Ratio = Radweg/Federweg) 	0,665
+rocker_h_Roll 	Rockerumlenkübersetzung hinten für Roll Motion (Motion Ratio = Radweg/Federweg) 	0,662
+cF_v_HS 	[N/m] Federkonstante vorne Heave Spring 	122000
+cF_h_HS 	[N/m] Federkonstante hinten Heave Spring 	148000
+cF_v_RS 	[N/m] Federkonstante vorne Roll Spring 	28000
+cF_h_RS 	[N/m] Federkonstante hinten Roll Spring 	25000
+cD_v_HS 	[Ns/m] Dämpferkonstante vorne Heave Spring 	3860
+cD_h_HS 	[Ns/m] Dämpferkonstante hinten Heave Spring 	4250
+cD_v_RS 	[Ns/m] Dämpferkonstante vorne Roll Spring 	1850
+cD_h_RS 	[Ns/m] Dämpferkonstante hinten Roll Spring 	1660
+		
+Aerodynamikparameter 	BENÖTIGEN ÜBERARBEITUNG 	
+		
+c_w_zu 	„zu“ entspricht geschlossenem DRS Flap 	1,640
+c_w_auf 		1,209
+c_a_zu 		-3,746
+c_a_auf 		-3,084
+rAx_zu 	[m] Aeroangriffspunkt x-Richtung im Fahrzeugkoordinatensystem 	0,542
+rAz_zu 	[m] Aeroangriffspunkt z-Richtung im Fahrzeugkoordinatensystem 	0,544
+rAx_auf 		0,330
+rAz_auf 		0,483
+v_DRS 	sollte DRS Geschw.-abhängig sein, ist v_DRS Schwellgeschw. 	
